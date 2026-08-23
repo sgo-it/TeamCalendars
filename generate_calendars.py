@@ -71,23 +71,19 @@ def send_mail(subject, body):
 send_success = os.getenv("SEND_EMAIL_ON_SUCCESS", "false").lower() == "true"
 send_error = os.getenv("SEND_EMAIL_ON_ERROR", "false").lower() == "true"
 
-# GitHub Pages Basis-URL für ICS-Dateien
 GITHUB_PAGES_BASE = "https://sgo-it.github.io/TeamCalendars/calendars/"
 
 
 # ---------------------------------------------------------
 # Geocoding: Adresse → GPS Koordinaten (OpenStreetMap)
 # ---------------------------------------------------------
+
 def geocode(address):
     if not address:
         return None, None
 
     url = "https://nominatim.openstreetmap.org/search"
-    params = {
-        "q": address,
-        "format": "json",
-        "limit": 1
-    }
+    params = {"q": address, "format": "json", "limit": 1}
 
     try:
         r = requests.get(url, params=params, headers={"User-Agent": "SGO-CalendarBot"}).json()
@@ -102,6 +98,7 @@ def geocode(address):
 # ---------------------------------------------------------
 # Spielort extrahieren
 # ---------------------------------------------------------
+
 def fetch_venue(match_url):
     if not match_url:
         return ""
@@ -115,12 +112,8 @@ def fetch_venue(match_url):
             return loc.get_text(strip=True)
 
         fallback = [
-            ".venue-name",
-            ".match-location",
-            ".location-name",
-            "div.venue",
-            "span.venue",
-            ".match-info-location"
+            ".venue-name", ".match-location", ".location-name",
+            "div.venue", "span.venue", ".match-info-location"
         ]
 
         for sel in fallback:
@@ -137,13 +130,13 @@ def fetch_venue(match_url):
 # ---------------------------------------------------------
 # Platzname + Adresse automatisch trennen
 # ---------------------------------------------------------
+
 def split_venue(venue):
     if not venue:
         return "", ""
 
     parts = [p.strip() for p in venue.split(",")]
 
-    # Adresse beginnt dort, wo eine Zahl vorkommt
     for i, p in enumerate(parts):
         if any(char.isdigit() for char in p):
             name = ", ".join(parts[:i])
@@ -156,6 +149,7 @@ def split_venue(venue):
 # ---------------------------------------------------------
 # Spiele laden
 # ---------------------------------------------------------
+
 def fetch_matches(team_url):
     if "#!" in team_url:
         team_url = team_url.split("#!")[0]
@@ -169,34 +163,26 @@ def fetch_matches(team_url):
 
     for row in soup.select("tr"):
 
-        # Datum + Wettbewerb
         if "row-headline" in row.get("class", []):
             headline = row.get_text(" ", strip=True)
             parts = headline.split("|")
 
-            date_part = parts[0].strip()
-            comp_part = parts[1].strip() if len(parts) > 1 else ""
+            raw = parts[0].strip().replace("Uhr", "").strip()
 
-            raw = date_part.replace("Uhr", "").strip()
-
-            # Wochentag entfernen
             if "," in raw:
                 raw = raw.split(",", 1)[1].strip()
 
-            # Zeitformat erkennen
             if "-" in raw:
                 dt = datetime.strptime(raw, "%d.%m.%Y - %H:%M")
             else:
                 dt = datetime.strptime(raw, "%d.%m.%Y")
 
-            # Zeitzone setzen → Deutschland (UTC+2)
             dt = dt.replace(tzinfo=timezone(timedelta(hours=2)))
 
             current_date = dt
-            current_competition = comp_part
+            current_competition = parts[1].strip() if len(parts) > 1 else ""
             continue
 
-        # Spielzeile
         if row.select_one(".column-club"):
             clubs = row.select(".column-club .club-name")
             if len(clubs) < 2:
@@ -224,31 +210,32 @@ def fetch_matches(team_url):
 # ---------------------------------------------------------
 # ICS erzeugen
 # ---------------------------------------------------------
-def build_calendar(matches):
+
+def build_calendar(matches, team_short):
     cal = Calendar()
+
     for m in matches:
         e = Event()
-        e.name = m["title"]
+
+        # SUMMARY mit Team-Kürzel
+        e.name = f"{team_short}{m['title']}"
+
         e.begin = m["start"]
         e.end = m["end"]
 
         venue_name, venue_address = split_venue(m["location"])
 
-        # GPS Koordinaten holen
         lat, lon = geocode(venue_address)
-        time.sleep(1)  # Nominatim Rate Limit
+        time.sleep(1)
 
-        # LOCATION = nur Adresse (Apple Maps kompatibel)
         e.location = venue_address
 
-        # DESCRIPTION = Liga + Platzname + Adresse + GPS + Links
         desc = m["league"]
 
         if venue_name:
             desc += f" – {venue_name}"
 
-        if venue_address:
-            desc += f"\nAdresse: {venue_address}"
+        desc += f"\nAdresse: {venue_address}"
 
         if lat and lon:
             desc += f"\nGPS: {lat}, {lon}"
@@ -258,21 +245,22 @@ def build_calendar(matches):
         e.description = desc
 
         cal.events.add(e)
+
     return cal
 
 
 # ---------------------------------------------------------
 # Hauptprogramm
 # ---------------------------------------------------------
+
 try:
-    with open("teams.json", "r") as f:
-        teams = json.load(f)
+    teams = json.load(open("teams.json", "r"))
 
     for team in teams:
         matches = fetch_matches(team["url"])
         print("Matches gefunden:", len(matches))
 
-        cal = build_calendar(matches)
+        cal = build_calendar(matches, team.get("short", ""))
 
         filename = f"{OUTPUT_DIR}/{team['name']}.ics"
         with open(filename, "w", encoding="utf-8") as f:
@@ -280,7 +268,6 @@ try:
 
         print(f"Erzeugt: {filename} (Events: {len(matches)})")
 
-        # Erfolgsmail pro Team
         if send_success:
             send_mail(
                 subject=f"Kalender aktualisiert: {team['name']}",
