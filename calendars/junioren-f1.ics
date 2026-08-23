@@ -2,45 +2,45 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
-DTEND:20261010T083000Z
-DTSTART:20261010T070000Z
-SUMMARY:SG Hohensachsen - Kinderfestival - SG Oftersheim
-UID:9eb7559d-5a5f-4061-9db6-9997e8bbc0fc@9eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
+DESCRIPTION:Kinderfußball\nAdresse: 
 DTEND:20261107T083000Z
 DTSTART:20261107T070000Z
-SUMMARY:SC Olympia Neulußheim - Kinderfestival - SG Oftersheim
-UID:387020d4-7fd2-4e3f-a1e8-a81edc8a0286@3870.org
+SUMMARY:J-F1: SC Olympia Neulußheim - Kinderfestival - SG Oftersheim
+UID:202a4a71-bc7d-4d45-aedb-9292ec29f01b@202a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
+DESCRIPTION:Kinderfußball\nAdresse: 
 DTEND:20261121T083000Z
 DTSTART:20261121T070000Z
-SUMMARY:SG Oftersheim - Kinderfestival - SG Oftersheim
-UID:0f2f8679-7978-4850-8d4f-6a44ce05fdf8@0f2f.org
+SUMMARY:J-F1: SG Oftersheim - Kinderfestival - SG Oftersheim
+UID:7fcf645a-154e-4e59-9a81-cc7abffa6f0d@7fcf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
+DESCRIPTION:Kinderfußball\nAdresse: 
 DTEND:20261114T083000Z
 DTSTART:20261114T070000Z
-SUMMARY:ASV Feudenheim - Kinderfestival - SG Oftersheim
-UID:fa8aed70-409c-413d-bbe3-cffe46da93e9@fa8a.org
+SUMMARY:J-F1: ASV Feudenheim - Kinderfestival - SG Oftersheim
+UID:d8c54cc7-4a8d-4f53-b054-1fa92958b10b@d8c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
-DTEND:20261017T133000Z
-DTSTART:20261017T120000Z
-SUMMARY:SV Rohrhof - Kinderfestival - SG Oftersheim
-UID:75564342-1c2d-4867-ae7e-a4f608c2da89@7556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kinderfußball
+DESCRIPTION:Kinderfußball\nAdresse: 
 DTEND:20260926T083000Z
 DTSTART:20260926T070000Z
-SUMMARY:SC Pfingstberg-Hochstätt - Kinderfestival - SG Oftersheim
-UID:a66eb9ca-f28c-423d-902a-1d7229a159db@a66e.org
+SUMMARY:J-F1: SC Pfingstberg-Hochstätt - Kinderfestival - SG Oftersheim
+UID:ecc33da0-06fa-4998-8dad-75b18c2dc017@ecc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kinderfußball\nAdresse: 
+DTEND:20261017T133000Z
+DTSTART:20261017T120000Z
+SUMMARY:J-F1: SV Rohrhof - Kinderfestival - SG Oftersheim
+UID:b08981b9-3f03-4ff5-a1a1-f65569b450a5@b089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kinderfußball\nAdresse: 
+DTEND:20261010T083000Z
+DTSTART:20261010T070000Z
+SUMMARY:J-F1: SG Hohensachsen - Kinderfestival - SG Oftersheim
+UID:2c7ce30b-4a72-4697-8655-97c349bdbc13@2c7c.org
 END:VEVENT
 END:VCALENDAR
