@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261114T183000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261114T170000Z
-SUMMARY:J-A2: SG Oftersheim 2 - Spvgg 03 Ilvesheim
-UID:0f1c8f21-3850-4a53-9a74-7a3195a34c07@0f1c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
 DTEND:20261107T164500Z
 LOCATION:68526 Ladenburg
 DTSTART:20261107T151500Z
 SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2
-UID:840b8f2d-87bd-443f-bf47-6f6a8cb74d35@840b.org
+UID:bcf4e05f-e176-4193-a7fa-4fc47b267ec0@bcf4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
@@ -23,7 +15,15 @@ DTEND:20261017T173000Z
 LOCATION:In der Anlage 11\, 68259 Mannheim
 DTSTART:20261017T160000Z
 SUMMARY:J-A2: DJK Feudenheim 2 (Flex) - SG Oftersheim 2
-UID:c197e7d2-c5a2-4ad1-9745-471ea5b00160@c197.org
+UID:4768e435-7a6e-4935-806d-b1cbb1a9f72c@4768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261114T183000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261114T170000Z
+SUMMARY:J-A2: SG Oftersheim 2 - Spvgg 03 Ilvesheim
+UID:aacbb9ca-51da-4b7a-8bb8-cdb49340b351@aacb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -31,31 +31,7 @@ DTEND:20260926T163000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20260926T150000Z
 SUMMARY:J-A2: SG Oftersheim 2 - SC 08 Reilingen
-UID:d8d806b0-7409-477f-bea7-da5225e362c6@d8d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261024T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261024T150000Z
-SUMMARY:J-A2: SG Oftersheim 2 - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
-UID:62e20219-37af-4554-a5de-c4f243472831@62e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, VfB Gartenstadt KR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
-DTEND:20261003T180000Z
-LOCATION:Anemonenweg 20-40\, 68305 Mannheim
-DTSTART:20261003T163000Z
-SUMMARY:J-A2: VfB Gartenstadt - SG Oftersheim 2
-UID:570678eb-823d-440e-b7b4-834f0294ce5c@5706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
-DTEND:20261121T150000Z
-LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
-DTSTART:20261121T133000Z
-SUMMARY:J-A2: JSG Nördliche Bergstraße 2 (Flex) - SG Oftersheim 2
-UID:92d0b3a0-a86c-4323-8ff6-402ee6f2c9ca@92d0.org
+UID:c9ddec78-9f06-4600-8585-3a468ee2b270@c9dd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -63,6 +39,30 @@ DTEND:20261010T153000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261010T140000Z
 SUMMARY:J-A2: SG Oftersheim 2 - SV Sandhofen (flex)
-UID:5815371f-a50f-45b9-bc5c-295d060267f7@5815.org
+UID:9a6ea024-615e-407f-8c68-bd2a1e8e3981@9a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261024T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261024T150000Z
+SUMMARY:J-A2: SG Oftersheim 2 - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
+UID:2c54afc1-1e57-4731-97ba-b37ac1517509@2c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, VfB Gartenstadt KR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
+DTEND:20261003T180000Z
+LOCATION:Anemonenweg 20-40\, 68305 Mannheim
+DTSTART:20261003T163000Z
+SUMMARY:J-A2: VfB Gartenstadt - SG Oftersheim 2
+UID:587e5cd8-32a9-452b-932e-20e40c225ccc@587e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
+DTEND:20261121T150000Z
+LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
+DTSTART:20261121T133000Z
+SUMMARY:J-A2: JSG Nördliche Bergstraße 2 (Flex) - SG Oftersheim 2
+UID:83c2e8cb-720c-4f42-bb80-909f66a92e21@83c2.org
 END:VEVENT
 END:VCALENDAR
