@@ -2,124 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTEND:20251003T233000Z
-LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTSTART:20251003T220000Z
-SUMMARY:J-A1: SC 08 Reilingen - SG Oftersheim
-UID:aeef9112-ade2-48a3-8868-2f015c896477@aeef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\nAdresse: MFC 08 Lindenhof KR 1\, Promenadenweg 15\, 68199 Mannheim
-DTEND:20260320T233000Z
-LOCATION:MFC 08 Lindenhof KR 1\, Promenadenweg 15\, 68199 Mannheim
-DTSTART:20260320T220000Z
-SUMMARY:J-A1: MFC 08 Lindenhof (Flex) - SG Oftersheim
-UID:fccad12a-4400-4f89-ac54-6bc8f277482c@fcca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, FC Bammental KR\nAdresse: Schwimmbadstr. 17\, 69245 Bammental\nGPS: 49.3515283\, 8.7668822\nGoogle Maps: https://maps.google.com/?q=49.3515283\,8.7668822\nApple Maps: https://maps.apple.com/?q=49.3515283\,8.7668822
-DTEND:20250425T233000Z
-LOCATION:Schwimmbadstr. 17\, 69245 Bammental
-DTSTART:20250425T220000Z
-SUMMARY:J-A1: FC Victoria Bammental - SG Oftersheim
-UID:289dfd46-506a-4fbb-8dd0-e7a16c8ad9c3@289d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20241108T233000Z
+DESCRIPTION:Kreisfreundschaftsspiele – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260913T143000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20241108T220000Z
-SUMMARY:J-A1: SG Oftersheim - SC Olympia Neulußheim
-UID:27444c4c-7e10-4b1c-9915-8e3170306791@2744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreispokal – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261110T183000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261110T170000Z
-SUMMARY:J-A1: SG Oftersheim - Gewinner aus Spiel 920056001 (PH)
-UID:c390dc69-8e76-4629-b738-262a6ec26f53@c390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
-DTEND:20260704T233000Z
-LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
-DTSTART:20260704T220000Z
-SUMMARY:J-A1: Spvgg 06 Ketsch - SG Oftersheim
-UID:9d05583b-3067-4d13-91b4-13852a656a8c@9d05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, Spvgg Wallstadt KR\nAdresse: Römerstr. 102\, 68259 Mannheim\nGPS: 49.5011144\, 8.5411435\nGoogle Maps: https://maps.google.com/?q=49.5011144\,8.5411435\nApple Maps: https://maps.apple.com/?q=49.5011144\,8.5411435
-DTEND:20261114T163000Z
-LOCATION:Römerstr. 102\, 68259 Mannheim
-DTSTART:20261114T150000Z
-SUMMARY:J-A1: Spvgg Wallstadt - SG Oftersheim
-UID:dc49e6ed-9d0f-4748-9728-94465ac3a894@dc49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20241011T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20241011T220000Z
-SUMMARY:J-A1: SG Oftersheim - Spvgg 06 Ketsch
-UID:6f18d70b-0c9d-49d3-8bc4-27cb9afea0e6@6f18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260926T183000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260926T170000Z
-SUMMARY:J-A1: SG Oftersheim - SC Olympia Neulußheim
-UID:74359f87-9df3-4a74-97f2-416818925a79@7435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
-DTEND:20260919T180000Z
-LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
-DTSTART:20260919T163000Z
-SUMMARY:J-A1: Spvgg 06 Ketsch - SG Oftersheim
-UID:eaa80d94-785e-4c8f-a770-2cee5408ad6f@eaa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, SV Rohrhof KR\, Gartenstr.\nAdresse: 68782 Brühl\nGPS: 49.3953536\, 8.5340405\nGoogle Maps: https://maps.google.com/?q=49.3953536\,8.5340405\nApple Maps: https://maps.apple.com/?q=49.3953536\,8.5340405
-DTEND:20261003T180000Z
-LOCATION:68782 Brühl
-DTSTART:20261003T163000Z
-SUMMARY:J-A1: SV Rohrhof - SG Oftersheim
-UID:921dda10-37f8-426e-b270-5e854f0a1fb4@921d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250131T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250131T220000Z
-SUMMARY:J-A1: SG Oftersheim - JSG Ziegelhausen/​Dossenheim/​Wieblingen
-UID:a34f164c-8bbd-49f6-affc-cf6880a73674@a34f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20241102T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20241102T220000Z
-SUMMARY:J-A1: SG Oftersheim - TSG 91/​09 Lützelsachsen 2
-UID:07980df5-9d81-46d6-8018-02ed7f15aa4d@0798.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261010T180000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261010T163000Z
-SUMMARY:J-A1: SG Oftersheim - SKV Sandhofen
-UID:a608c413-4c15-4b68-a041-3ddb9ff8ab07@a608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261024T183000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261024T170000Z
-SUMMARY:J-A1: SG Oftersheim - SC Käfertal
-UID:52911230-2b09-4ea6-979b-f7d90f5dd6d4@5291.org
+DTSTART:20260913T130000Z
+SUMMARY:J-A1: SG Oftersheim - JSG Mühlhausen/​Angelbachtal/​Rettigheim
+UID:941db5b2-8cf8-48b6-a71e-68b0f7e984f5@941d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisliga – Kunstrasenplatz\, ASV Feudenheim KP\nAdresse: Lauffener Str. 27\, 68259 Mannheim\nGPS: 49.4814260\, 8.5361260\nGoogle Maps: https://maps.google.com/?q=49.4814260\,8.5361260\nApple Maps: https://maps.apple.com/?q=49.4814260\,8.5361260
@@ -127,23 +15,31 @@ DTEND:20261107T170000Z
 LOCATION:Lauffener Str. 27\, 68259 Mannheim
 DTSTART:20261107T153000Z
 SUMMARY:J-A1: ASV Feudenheim - SG Oftersheim
-UID:eb49d56d-2ce0-4c86-83f5-c557cde427ac@eb49.org
+UID:f818d936-27a2-4e18-83d7-0fdbd0037fd2@f818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
+DTEND:20260919T180000Z
+LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
+DTSTART:20260919T163000Z
+SUMMARY:J-A1: Spvgg 06 Ketsch - SG Oftersheim
+UID:5225a7ed-fc6f-4023-a5eb-94169e25a6ef@5225.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251010T233000Z
+DTEND:20250131T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251010T220000Z
-SUMMARY:J-A1: SG Oftersheim - Spvgg Wallstadt
-UID:90eca971-8cb8-43da-a352-be4ef6490d8e@90ec.org
+DTSTART:20250131T220000Z
+SUMMARY:J-A1: SG Oftersheim - JSG Ziegelhausen/​Dossenheim/​Wieblingen
+UID:5e0dafe5-132b-4cc3-a87c-ba0896a464ba@5e0d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisliga – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
-DTEND:20261017T180000Z
-LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
-DTSTART:20261017T163000Z
-SUMMARY:J-A1: JSG Nördliche Bergstraße - SG Oftersheim
-UID:dea97b7c-bdbe-4eef-8d64-f96cea4995ae@dea9.org
+DESCRIPTION: – Kunstrasenplatz\, FC Bammental KR\nAdresse: Schwimmbadstr. 17\, 69245 Bammental\nGPS: 49.3515283\, 8.7668822\nGoogle Maps: https://maps.google.com/?q=49.3515283\,8.7668822\nApple Maps: https://maps.apple.com/?q=49.3515283\,8.7668822
+DTEND:20250425T233000Z
+LOCATION:Schwimmbadstr. 17\, 69245 Bammental
+DTSTART:20250425T220000Z
+SUMMARY:J-A1: FC Victoria Bammental - SG Oftersheim
+UID:7d3c8ab2-9066-45f9-9445-288f910a1b90@7d3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Rasenplatz\, TSG Eintracht Plankstadt NR\nAdresse: Jahnstr. 2\, 68723 Plankstadt\nGPS: 49.3960828\, 8.5906020\nGoogle Maps: https://maps.google.com/?q=49.3960828\,8.5906020\nApple Maps: https://maps.apple.com/?q=49.3960828\,8.5906020
@@ -151,14 +47,118 @@ DTEND:20250502T233000Z
 LOCATION:Jahnstr. 2\, 68723 Plankstadt
 DTSTART:20250502T220000Z
 SUMMARY:J-A1: TSG/​Eintracht Plankstadt - SG Oftersheim
-UID:d8c57b88-b154-4136-be25-7e2e9298f71e@d8c5.org
+UID:06ac25f4-f767-4e59-8d69-061f0c2a5fb6@06ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisfreundschaftsspiele – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260913T143000Z
+DESCRIPTION: – Kunstrasenplatz\nAdresse: MFC 08 Lindenhof KR 1\, Promenadenweg 15\, 68199 Mannheim
+DTEND:20260320T233000Z
+LOCATION:MFC 08 Lindenhof KR 1\, Promenadenweg 15\, 68199 Mannheim
+DTSTART:20260320T220000Z
+SUMMARY:J-A1: MFC 08 Lindenhof (Flex) - SG Oftersheim
+UID:92efad57-a516-45bb-9acb-36fe5c3fd20a@92ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTEND:20251003T233000Z
+LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTSTART:20251003T220000Z
+SUMMARY:J-A1: SC 08 Reilingen - SG Oftersheim
+UID:5e9ef195-f263-4a89-b7bb-03497d0ad3fc@5e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20241108T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260913T130000Z
-SUMMARY:J-A1: SG Oftersheim - JSG Mühlhausen/​Angelbachtal/​Rettigheim
-UID:e6e9891a-4acf-4a0f-a445-cfd6e7900da6@e6e9.org
+DTSTART:20241108T220000Z
+SUMMARY:J-A1: SG Oftersheim - SC Olympia Neulußheim
+UID:cd2903ab-f5da-4f62-81fe-86365d282801@cd29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, SV Rohrhof KR\, Gartenstr.\nAdresse: 68782 Brühl\nGPS: 49.3953536\, 8.5340405\nGoogle Maps: https://maps.google.com/?q=49.3953536\,8.5340405\nApple Maps: https://maps.apple.com/?q=49.3953536\,8.5340405
+DTEND:20261003T180000Z
+LOCATION:68782 Brühl
+DTSTART:20261003T163000Z
+SUMMARY:J-A1: SV Rohrhof - SG Oftersheim
+UID:eff95fa7-dfd2-4d55-b8bc-c4f22a652544@eff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260926T183000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260926T170000Z
+SUMMARY:J-A1: SG Oftersheim - SC Olympia Neulußheim
+UID:2983c38f-3c7d-4349-b069-5cc37f644e3d@2983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreispokal – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261110T183000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261110T170000Z
+SUMMARY:J-A1: SG Oftersheim - Gewinner aus Spiel 920056001 (PH)
+UID:7fa3a2f3-ca5e-40e0-a8ef-1fdbbf847247@7fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, Spvgg Wallstadt KR\nAdresse: Römerstr. 102\, 68259 Mannheim\nGPS: 49.5011144\, 8.5411435\nGoogle Maps: https://maps.google.com/?q=49.5011144\,8.5411435\nApple Maps: https://maps.apple.com/?q=49.5011144\,8.5411435
+DTEND:20261114T163000Z
+LOCATION:Römerstr. 102\, 68259 Mannheim
+DTSTART:20261114T150000Z
+SUMMARY:J-A1: Spvgg Wallstadt - SG Oftersheim
+UID:b66169d7-54ea-442e-b53c-8d9a0fd9451f@b661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
+DTEND:20260704T233000Z
+LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
+DTSTART:20260704T220000Z
+SUMMARY:J-A1: Spvgg 06 Ketsch - SG Oftersheim
+UID:489f7135-39c0-4345-9aa2-9d435949b568@489f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20241102T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20241102T220000Z
+SUMMARY:J-A1: SG Oftersheim - TSG 91/​09 Lützelsachsen 2
+UID:be1707a3-a8cf-4e44-848b-e0a879473e37@be17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20241011T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20241011T220000Z
+SUMMARY:J-A1: SG Oftersheim - Spvgg 06 Ketsch
+UID:b27ad996-6dc3-4c8e-9229-46d792af96a9@b27a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261010T180000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261010T163000Z
+SUMMARY:J-A1: SG Oftersheim - SKV Sandhofen
+UID:e52ce608-26f2-4414-bbd5-71d4b27387c1@e52c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251010T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251010T220000Z
+SUMMARY:J-A1: SG Oftersheim - Spvgg Wallstadt
+UID:8ba342cb-ce13-4e7d-ab7e-20d75b7a6811@8ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
+DTEND:20261017T180000Z
+LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
+DTSTART:20261017T163000Z
+SUMMARY:J-A1: JSG Nördliche Bergstraße - SG Oftersheim
+UID:0600dd57-d0f5-4054-96c3-a5bcfe8a11cd@0600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261024T183000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261024T170000Z
+SUMMARY:J-A1: SG Oftersheim - SC Käfertal
+UID:5116cdde-8b6d-45f1-9d92-2d18988f72fb@5116.org
 END:VEVENT
 END:VCALENDAR
