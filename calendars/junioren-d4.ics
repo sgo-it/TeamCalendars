@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20240927T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20240927T220000Z
-SUMMARY:J-D4: SG Oftersheim 4 - MFC Phönix 2
-UID:0effe2bf-848b-4cf6-825b-b4a04ca9d8b2@0eff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
-DTEND:20261114T133000Z
-LOCATION:In der Anlage 11\, 68259 Mannheim
-DTSTART:20261114T120000Z
-SUMMARY:J-D4: DJK Feudenheim 3 - SG Oftersheim 4
-UID:ea4abe1e-6a3e-45e4-9d19-cf70083c4d8a@ea4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Spvgg Wallstadt KR\nAdresse: Römerstr. 102\, 68259 Mannheim\nGPS: 49.5011144\, 8.5411435\nGoogle Maps: https://maps.google.com/?q=49.5011144\,8.5411435\nApple Maps: https://maps.apple.com/?q=49.5011144\,8.5411435
-DTEND:20250509T233000Z
-LOCATION:Römerstr. 102\, 68259 Mannheim
-DTSTART:20250509T220000Z
-SUMMARY:J-D4: Spvgg Wallstadt 3 - SG Oftersheim 4
-UID:c6a86523-8de4-476a-ae20-b4fee3e0b3e5@c6a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261121T093000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261121T080000Z
-SUMMARY:J-D4: SG Oftersheim 4 - MFC 08 Lindenhof 3
-UID:836c0f51-376e-47fd-abc5-ee2447dce5a1@836c.org
+DESCRIPTION:Kreisklasse A – Rasenplatz\, Olympia Neulußheim NR\nAdresse: Waghäuseler Str. 78\, 68809 Neulußheim\nGPS: 49.2890463\, 8.5218073\nGoogle Maps: https://maps.google.com/?q=49.2890463\,8.5218073\nApple Maps: https://maps.apple.com/?q=49.2890463\,8.5218073
+DTEND:20260926T113000Z
+LOCATION:Waghäuseler Str. 78\, 68809 Neulußheim
+DTSTART:20260926T100000Z
+SUMMARY:J-D4: SC Olympia Neulußheim 4 - SG Oftersheim 4
+UID:6d8d7b9a-d41e-4b91-bad4-907c9c1b2e03@6d8d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
@@ -39,63 +15,7 @@ DTEND:20260327T233000Z
 LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
 DTSTART:20260327T220000Z
 SUMMARY:J-D4: SV Laudenbach - SG Oftersheim 4
-UID:13b5b8b2-8613-4aba-8998-ea60f09df971@13b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Sepp-Herberger-Stadion (Kunstrasen)\nAdresse: Waidallee 2/1\, 69469 Weinheim\nGPS: 49.5411988\, 8.6475257\nGoogle Maps: https://maps.google.com/?q=49.5411988\,8.6475257\nApple Maps: https://maps.apple.com/?q=49.5411988\,8.6475257
-DTEND:20241004T233000Z
-LOCATION:Waidallee 2/1\, 69469 Weinheim
-DTSTART:20241004T220000Z
-SUMMARY:J-D4: TSG 1862/​09 Weinheim 3 - SG Oftersheim 4
-UID:2d8e2e54-fc03-4c77-8aeb-25d3114aa1b7@2d8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Sepp-Herberger-Stadion (Kunstrasen)\nAdresse: Waidallee 2/1\, 69469 Weinheim\nGPS: 49.5411988\, 8.6475257\nGoogle Maps: https://maps.google.com/?q=49.5411988\,8.6475257\nApple Maps: https://maps.apple.com/?q=49.5411988\,8.6475257
-DTEND:20250328T233000Z
-LOCATION:Waidallee 2/1\, 69469 Weinheim
-DTSTART:20250328T220000Z
-SUMMARY:J-D4: TSG 1862/​09 Weinheim 3 - SG Oftersheim 4
-UID:bb7a6439-6a99-486f-a14f-3363bf71347d@bb7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251128T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251128T220000Z
-SUMMARY:J-D4: SG Oftersheim 4 - SC Blumenau
-UID:40a7b055-1fba-4e39-8249-4b0aeda8e3e8@40a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, Olympia Neulußheim NR\nAdresse: Waghäuseler Str. 78\, 68809 Neulußheim\nGPS: 49.2890463\, 8.5218073\nGoogle Maps: https://maps.google.com/?q=49.2890463\,8.5218073\nApple Maps: https://maps.apple.com/?q=49.2890463\,8.5218073
-DTEND:20260926T113000Z
-LOCATION:Waghäuseler Str. 78\, 68809 Neulußheim
-DTSTART:20260926T100000Z
-SUMMARY:J-D4: SC Olympia Neulußheim 4 - SG Oftersheim 4
-UID:dfbf9d31-c78f-47e1-a6ec-53b1778426ec@dfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261107T103000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261107T090000Z
-SUMMARY:J-D4: SG Oftersheim 4 - MFC Phönix 3
-UID:bce83b55-d107-4496-a0f8-4ad2ad1866ad@bce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20241011T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20241011T220000Z
-SUMMARY:J-D4: SG Oftersheim 4 - ASV Feudenheim 2
-UID:1586f5a7-87e6-4242-91bc-8ff495d16c3e@1586.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTEND:20261010T103000Z
-LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTSTART:20261010T090000Z
-SUMMARY:J-D4: SC 08 Reilingen 3 (Flex) - SG Oftersheim 4
-UID:f4391430-0ebf-4148-9910-90e31f16807d@f439.org
+UID:3550d4f7-0f66-4c5e-995a-dee7db66f80e@3550.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, VfB Gartenstadt KR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
@@ -103,31 +23,7 @@ DTEND:20241018T233000Z
 LOCATION:Anemonenweg 20-40\, 68305 Mannheim
 DTSTART:20241018T220000Z
 SUMMARY:J-D4: VfB Gartenstadt 4 - SG Oftersheim 4
-UID:65bcea56-ba2b-4f13-afe8-a832d76f29d3@65bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261017T093000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261017T080000Z
-SUMMARY:J-D4: SG Oftersheim 4 - FV 08 Hockenheim 3
-UID:f7472942-f747-4269-afc6-18e41610431a@f747.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\, SV Schriesheim\, Wiesenweg\nAdresse: 69198 Schriesheim\nGPS: 49.4751705\, 8.6611149\nGoogle Maps: https://maps.google.com/?q=49.4751705\,8.6611149\nApple Maps: https://maps.apple.com/?q=49.4751705\,8.6611149
-DTEND:20240920T233000Z
-LOCATION:69198 Schriesheim
-DTSTART:20240920T220000Z
-SUMMARY:J-D4: SV Schriesheim 3 - SG Oftersheim 4
-UID:c9007a25-60e8-4bce-a54e-6c079d859cef@c900.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
-DTEND:20261003T113000Z
-LOCATION:Sportplatzweg 6\, 68804 Altlußheim
-DTSTART:20261003T100000Z
-SUMMARY:J-D4: SV Altlußheim 3 - SG Oftersheim 4
-UID:1986daa2-77c6-4deb-8020-c27298f2585c@1986.org
+UID:8112329b-aadb-4822-a1a0-aee87ba71748@8112.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SV Schwetzingen Kunstrasen\, Ketscher Landstr.\nAdresse: 68723 Schwetzingen\nGPS: 49.3835968\, 8.5784982\nGoogle Maps: https://maps.google.com/?q=49.3835968\,8.5784982\nApple Maps: https://maps.apple.com/?q=49.3835968\,8.5784982
@@ -135,6 +31,110 @@ DTEND:20251121T233000Z
 LOCATION:68723 Schwetzingen
 DTSTART:20251121T220000Z
 SUMMARY:J-D4: SV 98 Schwetzingen 2 - SG Oftersheim 4
-UID:21f5d50e-0807-4d77-9644-787096d3dbc0@21f5.org
+UID:907d6fdc-904d-4ed2-94a2-ca46bb12d0ef@907d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251128T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251128T220000Z
+SUMMARY:J-D4: SG Oftersheim 4 - SC Blumenau
+UID:3d534afe-0b4b-4348-b06d-316f9dbe10ed@3d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTEND:20261010T103000Z
+LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTSTART:20261010T090000Z
+SUMMARY:J-D4: SC 08 Reilingen 3 (Flex) - SG Oftersheim 4
+UID:70fa1ba5-0555-4bc9-970a-d8c89239f854@70fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
+DTEND:20261003T113000Z
+LOCATION:Sportplatzweg 6\, 68804 Altlußheim
+DTSTART:20261003T100000Z
+SUMMARY:J-D4: SV Altlußheim 3 - SG Oftersheim 4
+UID:510f14c3-00aa-458c-98b0-4680531e43f8@510f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20240927T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20240927T220000Z
+SUMMARY:J-D4: SG Oftersheim 4 - MFC Phönix 2
+UID:9bdd8a8e-9799-4ca3-a7d5-f71c108bbb41@9bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20241011T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20241011T220000Z
+SUMMARY:J-D4: SG Oftersheim 4 - ASV Feudenheim 2
+UID:b64fe30a-471d-463a-a604-2aaa4fb61e84@b64f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261017T093000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261017T080000Z
+SUMMARY:J-D4: SG Oftersheim 4 - FV 08 Hockenheim 3
+UID:30c31391-ba8b-42ca-9975-9fca4aafd05e@30c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\, SV Schriesheim\, Wiesenweg\nAdresse: 69198 Schriesheim\nGPS: 49.4751705\, 8.6611149\nGoogle Maps: https://maps.google.com/?q=49.4751705\,8.6611149\nApple Maps: https://maps.apple.com/?q=49.4751705\,8.6611149
+DTEND:20240920T233000Z
+LOCATION:69198 Schriesheim
+DTSTART:20240920T220000Z
+SUMMARY:J-D4: SV Schriesheim 3 - SG Oftersheim 4
+UID:73536485-fcac-4528-9240-8b259cb733cb@7353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261121T093000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261121T080000Z
+SUMMARY:J-D4: SG Oftersheim 4 - MFC 08 Lindenhof 3
+UID:8fb745ee-ebc2-4015-b5da-21ffbbf77540@8fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261107T103000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261107T090000Z
+SUMMARY:J-D4: SG Oftersheim 4 - MFC Phönix 3
+UID:127f8408-06ab-4473-892f-0e7077de04f9@127f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Sepp-Herberger-Stadion (Kunstrasen)\nAdresse: Waidallee 2/1\, 69469 Weinheim\nGPS: 49.5411988\, 8.6475257\nGoogle Maps: https://maps.google.com/?q=49.5411988\,8.6475257\nApple Maps: https://maps.apple.com/?q=49.5411988\,8.6475257
+DTEND:20241004T233000Z
+LOCATION:Waidallee 2/1\, 69469 Weinheim
+DTSTART:20241004T220000Z
+SUMMARY:J-D4: TSG 1862/​09 Weinheim 3 - SG Oftersheim 4
+UID:03608404-c056-4a67-b771-59b40f3cb2e0@0360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Spvgg Wallstadt KR\nAdresse: Römerstr. 102\, 68259 Mannheim\nGPS: 49.5011144\, 8.5411435\nGoogle Maps: https://maps.google.com/?q=49.5011144\,8.5411435\nApple Maps: https://maps.apple.com/?q=49.5011144\,8.5411435
+DTEND:20250509T233000Z
+LOCATION:Römerstr. 102\, 68259 Mannheim
+DTSTART:20250509T220000Z
+SUMMARY:J-D4: Spvgg Wallstadt 3 - SG Oftersheim 4
+UID:408fb4ad-d607-4ce2-a22d-5f851ad1588e@408f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Sepp-Herberger-Stadion (Kunstrasen)\nAdresse: Waidallee 2/1\, 69469 Weinheim\nGPS: 49.5411988\, 8.6475257\nGoogle Maps: https://maps.google.com/?q=49.5411988\,8.6475257\nApple Maps: https://maps.apple.com/?q=49.5411988\,8.6475257
+DTEND:20250328T233000Z
+LOCATION:Waidallee 2/1\, 69469 Weinheim
+DTSTART:20250328T220000Z
+SUMMARY:J-D4: TSG 1862/​09 Weinheim 3 - SG Oftersheim 4
+UID:4e3e7561-1ca4-4b82-adbf-a81ca311c4d9@4e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
+DTEND:20261114T133000Z
+LOCATION:In der Anlage 11\, 68259 Mannheim
+DTSTART:20261114T120000Z
+SUMMARY:J-D4: DJK Feudenheim 3 - SG Oftersheim 4
+UID:04fb2dea-3507-4810-8adf-5700467b847b@04fb.org
 END:VEVENT
 END:VCALENDAR
