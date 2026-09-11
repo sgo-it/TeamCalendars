@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, TSV Neckarau KR\nAdresse: Kiesteichweg 9\, 68199 Mannheim\nGPS: 49.4471387\, 8.4708482\nGoogle Maps: https://maps.google.com/?q=49.4471387\,8.4708482\nApple Maps: https://maps.apple.com/?q=49.4471387\,8.4708482
-DTEND:20261108T140000Z
-LOCATION:Kiesteichweg 9\, 68199 Mannheim
-DTSTART:20261108T123000Z
-SUMMARY:H2: TSV Neckarau - SG  Oftersheim 2
-UID:66abcd2f-88a0-4f9b-b504-46b4aa719727@66ab.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260228T233000Z
+DTEND:20260321T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260228T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - FV Ubstadt 2
-UID:2f05446f-75cd-4d29-9232-4d9196eb456c@2f05.org
+DTSTART:20260321T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - VfL Kurpfalz Neckarau 2
+UID:72b8268d-8006-4c3b-996b-6ff3bc5d6c58@72b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -23,87 +15,7 @@ DTEND:20260207T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20260207T220000Z
 SUMMARY:H2: SG  Oftersheim 2 - SSV Vogelstang 2
-UID:a9567367-6dfd-45c7-81aa-8c7e743bf44b@a956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260213T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260213T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - FG Rohrbach 2
-UID:d37b05ca-94d4-41ea-859c-fce6e9682109@d37b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250726T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250726T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - SG Hohensachsen
-UID:e4bf9031-b033-4bd4-b5bf-62f449f90df1@e4bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260425T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260425T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - TSV Neckarau 2
-UID:053dfebc-1f52-4480-98da-354af149a757@053d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261004T120000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261004T103000Z
-SUMMARY:H2: SG  Oftersheim 2 - Polizei SV Mannheim
-UID:91e6bf2c-f778-4fe0-ae49-e2e9ee46a59a@91e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261101T113000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261101T100000Z
-SUMMARY:H2: SG  Oftersheim 2 - FC Hochstätt Türkspor
-UID:8d554b92-4b13-4e1e-adc8-13680ad4ea76@8d55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250531T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250531T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - SC Pfingstberg-Hochstätt 2
-UID:08a230d3-9911-4b1e-a4d0-9cf81bd09489@08a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, TSG Eintracht Plankstadt NR\nAdresse: Jahnstr. 2\, 68723 Plankstadt\nGPS: 49.3960828\, 8.5906020\nGoogle Maps: https://maps.google.com/?q=49.3960828\,8.5906020\nApple Maps: https://maps.apple.com/?q=49.3960828\,8.5906020
-DTEND:20261011T143000Z
-LOCATION:Jahnstr. 2\, 68723 Plankstadt
-DTSTART:20261011T130000Z
-SUMMARY:H2: TSG Eintracht Plankstadt - SG  Oftersheim 2
-UID:fe160a27-575b-4724-b1c9-419c11d8c8fa@fe16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\nAdresse: MFC 08 Lindenhof KR 2\, Promenadenweg 15\, 68199 Mannheim
-DTEND:20261025T113000Z
-LOCATION:MFC 08 Lindenhof KR 2\, Promenadenweg 15\, 68199 Mannheim
-DTSTART:20261025T100000Z
-SUMMARY:H2: MFC 08 Lindenhof 2 - SG  Oftersheim 2
-UID:6e82d67b-2cbb-4aac-986a-d6dea948ce5f@6e82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Schwetzingen Kunstrasen\, Ketscher Landstr.\nAdresse: 68723 Schwetzingen\nGPS: 49.3835968\, 8.5784982\nGoogle Maps: https://maps.google.com/?q=49.3835968\,8.5784982\nApple Maps: https://maps.apple.com/?q=49.3835968\,8.5784982
-DTEND:20260913T113000Z
-LOCATION:68723 Schwetzingen
-DTSTART:20260913T100000Z
-SUMMARY:H2: SV 98 Schwetzingen 2 - SG  Oftersheim 2
-UID:0c504aa9-2eec-448c-8779-863a648bfca8@0c50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250329T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250329T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - SV Rohrhof 2
-UID:ce6ca944-bf7e-4ad1-a40a-dbf2d4339f6c@ce6c.org
+UID:3a17fe25-b7be-4ed8-8c29-64bdf9d26ec0@3a17.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -111,31 +23,15 @@ DTEND:20261018T120000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261018T103000Z
 SUMMARY:H2: SG  Oftersheim 2 - FK Bosna Mannheim
-UID:c01e6337-1d87-4802-bf61-b17f6d47fa85@c01e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260920T120000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260920T103000Z
-SUMMARY:H2: SG  Oftersheim 2 - DJK Feudenheim
-UID:e4af43a0-954e-42bc-a997-f74a0b4a282e@e4af.org
+UID:b1e7f2da-eea6-46f1-9d62-dec29a87dd7f@b1e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260321T233000Z
+DTEND:20260213T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260321T220000Z
-SUMMARY:H2: SG  Oftersheim 2 - VfL Kurpfalz Neckarau 2
-UID:226d36af-57e6-4c7f-a606-46dc85daaf5f@226d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\, FV Vikt. Ubstadt\nAdresse: Kolpingstr. 26\, 76698 Ubstadt-Weiher\nGPS: 49.1663154\, 8.6285461\nGoogle Maps: https://maps.google.com/?q=49.1663154\,8.6285461\nApple Maps: https://maps.apple.com/?q=49.1663154\,8.6285461
-DTEND:20260822T233000Z
-LOCATION:Kolpingstr. 26\, 76698 Ubstadt-Weiher
-DTSTART:20260822T220000Z
-SUMMARY:H2: FV Ubstadt 2 - SG  Oftersheim 2
-UID:f77361ef-8381-4ffd-b1c1-417f43743973@f773.org
+DTSTART:20260213T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - FG Rohrbach 2
+UID:6fd2bfcc-e1a7-4fa9-ba86-76c2b042b2bf@6fd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, SG Mannheim\, Im Pfeifferswörth\nAdresse: 68167 Mannheim\nGPS: 49.4962223\, 8.4928272\nGoogle Maps: https://maps.google.com/?q=49.4962223\,8.4928272\nApple Maps: https://maps.apple.com/?q=49.4962223\,8.4928272
@@ -143,7 +39,23 @@ DTEND:20260927T143000Z
 LOCATION:68167 Mannheim
 DTSTART:20260927T130000Z
 SUMMARY:H2: SG Mannheim - SG  Oftersheim 2
-UID:cdfcb3aa-6bc6-430f-89fd-4a45c448e0d1@cdfc.org
+UID:acc93892-814c-474c-b619-cc7151b52587@acc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20250329T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20250329T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - SV Rohrhof 2
+UID:20eb703b-4931-4437-85c9-b7c30d794a75@20eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20250726T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20250726T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - SG Hohensachsen
+UID:4a82546c-9cd9-4bcd-8b32-753ff1151cfc@4a82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -151,14 +63,102 @@ DTEND:20250503T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20250503T220000Z
 SUMMARY:H2: SG  Oftersheim 2 - VfL Kurpfalz Neckarau 2
-UID:a293eab5-f453-4600-8c76-ebf91ce4dbcd@a293.org
+UID:0f4a5454-128d-4b5c-bdcd-30e1035d4992@0f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\nAdresse: MFC 08 Lindenhof KR 2\, Promenadenweg 15\, 68199 Mannheim
+DTEND:20261025T113000Z
+LOCATION:MFC 08 Lindenhof KR 2\, Promenadenweg 15\, 68199 Mannheim
+DTSTART:20261025T100000Z
+SUMMARY:H2: MFC 08 Lindenhof 2 - SG  Oftersheim 2
+UID:9e82dd70-c680-48c5-8ab2-866645b2ba67@9e82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260910T190000Z
+DTEND:20260920T120000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260910T173000Z
-SUMMARY:H2: SG  Oftersheim 2 - SC 08 Reilingen
-UID:00c3100a-aa78-4337-a2ad-0e3f7bb4d58a@00c3.org
+DTSTART:20260920T103000Z
+SUMMARY:H2: SG  Oftersheim 2 - DJK Feudenheim
+UID:1a96c5cf-e637-4c48-8713-6c852dceb867@1a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20250531T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20250531T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - SC Pfingstberg-Hochstätt 2
+UID:ce16b452-2904-4d62-a570-1fea7fdc8ecc@ce16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261101T113000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261101T100000Z
+SUMMARY:H2: SG  Oftersheim 2 - FC Hochstätt Türkspor
+UID:940d1ec9-1f3f-4165-bd2f-c4b5c2df5721@940d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Rasenplatz\, TSG Eintracht Plankstadt NR\nAdresse: Jahnstr. 2\, 68723 Plankstadt\nGPS: 49.3960828\, 8.5906020\nGoogle Maps: https://maps.google.com/?q=49.3960828\,8.5906020\nApple Maps: https://maps.apple.com/?q=49.3960828\,8.5906020
+DTEND:20261011T143000Z
+LOCATION:Jahnstr. 2\, 68723 Plankstadt
+DTSTART:20261011T130000Z
+SUMMARY:H2: TSG Eintracht Plankstadt - SG  Oftersheim 2
+UID:448a0168-4e26-4044-9381-e251c7a5b23c@448a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261004T120000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261004T103000Z
+SUMMARY:H2: SG  Oftersheim 2 - Polizei SV Mannheim
+UID:a0131971-ca23-4a5d-bebd-8e899f4b4d52@a013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Schwetzingen Kunstrasen\, Ketscher Landstr.\nAdresse: 68723 Schwetzingen\nGPS: 49.3835968\, 8.5784982\nGoogle Maps: https://maps.google.com/?q=49.3835968\,8.5784982\nApple Maps: https://maps.apple.com/?q=49.3835968\,8.5784982
+DTEND:20260913T113000Z
+LOCATION:68723 Schwetzingen
+DTSTART:20260913T100000Z
+SUMMARY:H2: SV 98 Schwetzingen 2 - SG  Oftersheim 2
+UID:4f2e9f78-3292-4516-b8f1-1973afdb4d0f@4f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, TSV Neckarau KR\nAdresse: Kiesteichweg 9\, 68199 Mannheim\nGPS: 49.4471387\, 8.4708482\nGoogle Maps: https://maps.google.com/?q=49.4471387\,8.4708482\nApple Maps: https://maps.apple.com/?q=49.4471387\,8.4708482
+DTEND:20261108T140000Z
+LOCATION:Kiesteichweg 9\, 68199 Mannheim
+DTSTART:20261108T123000Z
+SUMMARY:H2: TSV Neckarau - SG  Oftersheim 2
+UID:cab25f0f-ff43-4ba8-ab57-5479c60c3921@cab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\, FV Vikt. Ubstadt\nAdresse: Kolpingstr. 26\, 76698 Ubstadt-Weiher\nGPS: 49.1663154\, 8.6285461\nGoogle Maps: https://maps.google.com/?q=49.1663154\,8.6285461\nApple Maps: https://maps.apple.com/?q=49.1663154\,8.6285461
+DTEND:20260822T233000Z
+LOCATION:Kolpingstr. 26\, 76698 Ubstadt-Weiher
+DTSTART:20260822T220000Z
+SUMMARY:H2: FV Ubstadt 2 - SG  Oftersheim 2
+UID:b1fd771f-6330-4690-9d77-5037941c8c69@b1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260425T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260425T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - TSV Neckarau 2
+UID:94417858-6002-4782-b444-f80852101e15@9441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261115T113000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261115T100000Z
+SUMMARY:H2: SG  Oftersheim 2 - DJK/​Fortuna Edingen-Neckarhausen
+UID:7e55e847-43a9-4a9b-9e99-7469f1f8e1e4@7e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260228T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260228T220000Z
+SUMMARY:H2: SG  Oftersheim 2 - FV Ubstadt 2
+UID:48252529-01ac-4516-af5e-08cc34e0b0f2@4825.org
 END:VEVENT
 END:VCALENDAR
