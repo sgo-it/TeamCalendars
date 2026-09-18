@@ -2,50 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Schriesheim KR\nAdresse: Wiesenweg 30\, 69198 Schriesheim\nGPS: 49.4744991\, 8.6505149\nGoogle Maps: https://maps.google.com/?q=49.4744991\,8.6505149\nApple Maps: https://maps.apple.com/?q=49.4744991\,8.6505149
-DTEND:20261121T134500Z
-LOCATION:Wiesenweg 30\, 69198 Schriesheim
-DTSTART:20261121T121500Z
-SUMMARY:J-C3: SV Schriesheim 2 - SG Oftersheim 3
-UID:cf1247f0-0bf1-4ae3-bbbe-f7b8ed9bfdd0@cf12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251120T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251120T220000Z
-SUMMARY:J-C3: SG Oftersheim 3 (Flex) - VfB Gartenstadt 3 Flex
-UID:346da79b-44f1-46f4-b0f5-2dc90de6276d@346d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A\nAdresse: 
-DTEND:20261003T114000Z
-DTSTART:20261003T101000Z
-SUMMARY:J-C3: SG Oftersheim 3 - SKV Sandhofen 2
-UID:bc63312f-94d0-42f5-80ac-fc8eeff5f1ac@bc63.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20261107T123000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261107T110000Z
 SUMMARY:J-C3: SG Oftersheim 3 - SG Hohensachsen 2
-UID:848d2637-ae41-421b-a9ca-1917b5eb096a@848d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261017T111500Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261017T094500Z
-SUMMARY:J-C3: SG Oftersheim 3 - SSV Vogelstang
-UID:b7f4393e-df34-4c1f-8b56-99321c28af9d@b7f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A\nAdresse: 
-DTEND:20260927T103000Z
-DTSTART:20260927T090000Z
-SUMMARY:J-C3: SC Käfertal 2 - SG Oftersheim 3
-UID:624cf249-692c-4b80-8d4c-b85a62cf9ed8@624c.org
+UID:d2e796a8-d139-4d42-965a-6fb2649facbf@d2e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, Phönix Mannheim NR\nAdresse: Zum Herrenried 10\, 68169 Mannheim\nGPS: 49.5097415\, 8.4848941\nGoogle Maps: https://maps.google.com/?q=49.5097415\,8.4848941\nApple Maps: https://maps.apple.com/?q=49.5097415\,8.4848941
@@ -53,23 +15,7 @@ DTEND:20261024T124500Z
 LOCATION:Zum Herrenried 10\, 68169 Mannheim
 DTSTART:20261024T111500Z
 SUMMARY:J-C3: MFC Phönix 2 - SG Oftersheim 3
-UID:2a3a160f-4808-4a2b-b0d0-30e2e9a14765@2a3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261114T123000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261114T110000Z
-SUMMARY:J-C3: SG Oftersheim 3 - VfL Kurpfalz Neckarau 2 (Flex)
-UID:8622de90-a816-4947-812f-845bd6a1c490@8622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260919T123000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260919T110000Z
-SUMMARY:J-C3: SG Oftersheim 3 - VfB Gartenstadt 2
-UID:ed2d112a-69e9-4c05-b5a3-4528658e23c6@ed2d.org
+UID:60bd44a7-104a-49f0-9405-dd2031c98956@60bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, TSG Lützelsachsen\nAdresse: Weimarer Str. 1\, 69469 Weinheim\nGPS: 49.5283256\, 8.6463109\nGoogle Maps: https://maps.google.com/?q=49.5283256\,8.6463109\nApple Maps: https://maps.apple.com/?q=49.5283256\,8.6463109
@@ -77,7 +23,62 @@ DTEND:20261010T120000Z
 LOCATION:Weimarer Str. 1\, 69469 Weinheim
 DTSTART:20261010T103000Z
 SUMMARY:J-C3: TSG 91/​09 Lützelsachsen 3 (Flex) - SG Oftersheim 3
-UID:5ad9c439-4360-477b-abc3-f75cb9242a53@5ad9.org
+UID:d1db6229-16c7-4912-b4f8-a7c75b7e2b2c@d1db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SC Käfertal KR\nAdresse: Obere Riedstr. 88\, 68309 Mannheim\nGPS: 49.5135552\, 8.5101926\nGoogle Maps: https://maps.google.com/?q=49.5135552\,8.5101926\nApple Maps: https://maps.apple.com/?q=49.5135552\,8.5101926
+DTEND:20260927T163000Z
+LOCATION:Obere Riedstr. 88\, 68309 Mannheim
+DTSTART:20260927T150000Z
+SUMMARY:J-C3: SC Käfertal 2 - SG Oftersheim 3
+UID:2d92fa45-7dce-40b0-badf-a5152a8ec54c@2d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261114T123000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261114T110000Z
+SUMMARY:J-C3: SG Oftersheim 3 - VfL Kurpfalz Neckarau 2 (Flex)
+UID:114cd676-911c-4926-8424-da7f8e2d9659@114c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251120T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251120T220000Z
+SUMMARY:J-C3: SG Oftersheim 3 (Flex) - VfB Gartenstadt 3 Flex
+UID:48d097cd-b731-4acd-82af-6fc097968d65@48d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260919T123000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260919T110000Z
+SUMMARY:J-C3: SG Oftersheim 3 - VfB Gartenstadt 2
+UID:963beb30-464e-48a7-b5e9-30ae47bdbd02@963b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A\nAdresse: 
+DTEND:20261003T114000Z
+DTSTART:20261003T101000Z
+SUMMARY:J-C3: SG Oftersheim 3 - SKV Sandhofen 2
+UID:c08a67c6-d908-4729-ad4b-50022500118e@c08a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SV Schriesheim KR\nAdresse: Wiesenweg 30\, 69198 Schriesheim\nGPS: 49.4744991\, 8.6505149\nGoogle Maps: https://maps.google.com/?q=49.4744991\,8.6505149\nApple Maps: https://maps.apple.com/?q=49.4744991\,8.6505149
+DTEND:20261121T134500Z
+LOCATION:Wiesenweg 30\, 69198 Schriesheim
+DTSTART:20261121T121500Z
+SUMMARY:J-C3: SV Schriesheim 2 - SG Oftersheim 3
+UID:8f71b02b-23dd-4d31-9cb0-99ce774d552a@8f71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261017T111500Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261017T094500Z
+SUMMARY:J-C3: SG Oftersheim 3 - SSV Vogelstang
+UID:279439ea-e582-4752-906d-031a967e616b@2794.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, Waldstadion Hockenheim\nAdresse: Waldstraße 3\, 68766 Hockenheim\nGPS: 49.3207249\, 8.5630825\nGoogle Maps: https://maps.google.com/?q=49.3207249\,8.5630825\nApple Maps: https://maps.apple.com/?q=49.3207249\,8.5630825
@@ -85,6 +86,6 @@ DTEND:20250926T233000Z
 LOCATION:Waldstraße 3\, 68766 Hockenheim
 DTSTART:20250926T220000Z
 SUMMARY:J-C3: FV 08 Hockenheim (Flex) - SG Oftersheim 3 (Flex)
-UID:713badbe-53d1-4f03-a896-b9ca2a407efd@713b.org
+UID:01d8de02-1152-4d09-8e2f-d756d59e60e8@01d8.org
 END:VEVENT
 END:VCALENDAR
