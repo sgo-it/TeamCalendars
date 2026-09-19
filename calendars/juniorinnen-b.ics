@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, Schulsport Hoffh. Kunstrasen\nAdresse: Peter-Hofmann-Weg 3\, 74889 Sinsheim\nGPS: 49.2778885\, 8.8430306\nGoogle Maps: https://maps.google.com/?q=49.2778885\,8.8430306\nApple Maps: https://maps.apple.com/?q=49.2778885\,8.8430306
-DTEND:20261114T163000Z
-LOCATION:Peter-Hofmann-Weg 3\, 74889 Sinsheim
-DTSTART:20261114T150000Z
-SUMMARY:M-B: TSG Hoffenheim  11er - SG Oftersheim  11er
-UID:3447481a-d8cb-4f17-839e-21d55d708a29@3447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260709T233000Z
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261101T163000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260709T220000Z
-SUMMARY:M-B: SG Oftersheim - FC 1933 Leistadt F.B.L. Girls United
-UID:985e3a4b-e94f-47d8-86e9-c9bac3fb5254@985e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\, TSV Stettfeld\nAdresse: Augartenstr. 8\, 76698 Ubstadt-Weiher\nGPS: 49.1867068\, 8.6396356\nGoogle Maps: https://maps.google.com/?q=49.1867068\,8.6396356\nApple Maps: https://maps.apple.com/?q=49.1867068\,8.6396356
-DTEND:20260710T233000Z
-LOCATION:Augartenstr. 8\, 76698 Ubstadt-Weiher
-DTSTART:20260710T220000Z
-SUMMARY:M-B: SG Oftersheim - SV Gochsheim
-UID:5d7a906d-c7d8-4363-982d-f226758d3caf@5d7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: FC Astoria Walldorf (2)\, Schwetzinger Str. 92\, 69190 Walldorf
-DTEND:20261004T103000Z
-LOCATION:FC Astoria Walldorf (2)\, Schwetzinger Str. 92\, 69190 Walldorf
-DTSTART:20261004T090000Z
-SUMMARY:M-B: FC Astoria Walldorf  11er - SG Oftersheim  11er
-UID:cb38cdc8-e157-45eb-b821-7881537cc2f6@cb38.org
+DTSTART:20261101T150000Z
+SUMMARY:M-B: SG Oftersheim  11er - SV Gochsheim  11er
+UID:95291a2c-d7a5-425d-822f-188f34a83a54@9529.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -39,47 +15,7 @@ DTEND:20261120T180000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261120T163000Z
 SUMMARY:M-B: SG Oftersheim  11er - SG Hohensachsen  11er
-UID:30835c32-4aa0-4730-85b1-aa25057344ae@3083.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261016T180000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261016T163000Z
-SUMMARY:M-B: SG Oftersheim  11er - SpVgg Durlach-Aue  11er
-UID:daa9fc80-534d-4d63-84fe-b55188d577eb@daa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Verbandspokal – Kunstrasenplatz\, Fußballcampus Heidelberg\nAdresse: Tiergartenstr. 124\, 69120 Heidelberg\nGPS: 49.4257295\, 8.6578278\nGoogle Maps: https://maps.google.com/?q=49.4257295\,8.6578278\nApple Maps: https://maps.apple.com/?q=49.4257295\,8.6578278
-DTEND:20260922T180000Z
-LOCATION:Tiergartenstr. 124\, 69120 Heidelberg
-DTSTART:20260922T163000Z
-SUMMARY:M-B: JSG Heidelberg Nord 9er - SG Oftersheim
-UID:d1bd3265-c9b3-436d-972b-b089ebb858e4@d1bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260925T180000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260925T163000Z
-SUMMARY:M-B: SG Oftersheim  11er - JSG HD-Kirchheim /​ Ziegelhausen-Peterstal /​ Neckargemünd  11er
-UID:53d75e54-1bea-4083-89aa-acdeef05ccf3@53d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261108T103000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261108T090000Z
-SUMMARY:M-B: SG Oftersheim  11er - Karlsruher SC 2  11er
-UID:862a0c20-201f-42fa-bb4c-66327c3e7415@862a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
-DTEND:20261025T103000Z
-LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
-DTSTART:20261025T090000Z
-SUMMARY:M-B: Spvgg 06 Ketsch  11er - SG Oftersheim  11er
-UID:65ed432c-9411-406d-85b6-63c6e5417f74@65ed.org
+UID:ac0dfeaf-dd84-499b-9d00-e23f514cca01@ac0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
@@ -87,14 +23,78 @@ DTEND:20261122T103000Z
 LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
 DTSTART:20261122T090000Z
 SUMMARY:M-B: TSV Amicitia Viernheim  11er - SG Oftersheim  11er
-UID:c6d1e622-28f0-46f5-a450-29ec4c766308@c6d1.org
+UID:53d86b72-2a48-4ba1-8593-9a3ac837ff8d@53d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Verbandspokal – Kunstrasenplatz\, Fußballcampus Heidelberg\nAdresse: Tiergartenstr. 124\, 69120 Heidelberg\nGPS: 49.4257295\, 8.6578278\nGoogle Maps: https://maps.google.com/?q=49.4257295\,8.6578278\nApple Maps: https://maps.apple.com/?q=49.4257295\,8.6578278
+DTEND:20260922T180000Z
+LOCATION:Tiergartenstr. 124\, 69120 Heidelberg
+DTSTART:20260922T163000Z
+SUMMARY:M-B: JSG Heidelberg Nord 9er - SG Oftersheim
+UID:bb63aaaf-e12c-4ac0-9341-b6925210319b@bb63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\, TSV Stettfeld\nAdresse: Augartenstr. 8\, 76698 Ubstadt-Weiher\nGPS: 49.1867068\, 8.6396356\nGoogle Maps: https://maps.google.com/?q=49.1867068\,8.6396356\nApple Maps: https://maps.apple.com/?q=49.1867068\,8.6396356
+DTEND:20260710T233000Z
+LOCATION:Augartenstr. 8\, 76698 Ubstadt-Weiher
+DTSTART:20260710T220000Z
+SUMMARY:M-B: SG Oftersheim - SV Gochsheim
+UID:e2e231f7-55b3-4d25-922f-f6a6a57a8a2d@e2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260709T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260709T220000Z
+SUMMARY:M-B: SG Oftersheim - FC 1933 Leistadt F.B.L. Girls United
+UID:5a52603d-4838-4e42-ad0c-425069f61452@5a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: FC Astoria Walldorf (2)\, Schwetzinger Str. 92\, 69190 Walldorf
+DTEND:20261004T103000Z
+LOCATION:FC Astoria Walldorf (2)\, Schwetzinger Str. 92\, 69190 Walldorf
+DTSTART:20261004T090000Z
+SUMMARY:M-B: FC Astoria Walldorf  11er - SG Oftersheim  11er
+UID:0e745295-3208-4778-8707-cd630403d335@0e74.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261101T163000Z
+DTEND:20261108T103000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261101T150000Z
-SUMMARY:M-B: SG Oftersheim  11er - SV Gochsheim  11er
-UID:4bad2d0e-acf9-4608-8da0-102a0ea27f49@4bad.org
+DTSTART:20261108T090000Z
+SUMMARY:M-B: SG Oftersheim  11er - Karlsruher SC 2  11er
+UID:91347e7a-0ee9-4c29-89d3-faa215b60924@9134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, Enderle Sportpark-Kunstrasen\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
+DTEND:20261025T103000Z
+LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
+DTSTART:20261025T090000Z
+SUMMARY:M-B: Spvgg 06 Ketsch  11er - SG Oftersheim  11er
+UID:33519a40-1941-4af7-9dbd-039f523122ff@3351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260925T180000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260925T163000Z
+SUMMARY:M-B: SG Oftersheim  11er - JSG HD-Kirchheim /​ Ziegelhausen-Peterstal /​ Neckargemünd  11er
+UID:3b91a47d-5f84-4c9d-b45c-8a7fc5650381@3b91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261016T180000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261016T163000Z
+SUMMARY:M-B: SG Oftersheim  11er - SpVgg Durlach-Aue  11er
+UID:dba24272-6a7e-4c6f-ba4b-6a91b06e4775@dba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, Schulsport Hoffh. Kunstrasen\nAdresse: Peter-Hofmann-Weg 3\, 74889 Sinsheim\nGPS: 49.2778885\, 8.8430306\nGoogle Maps: https://maps.google.com/?q=49.2778885\,8.8430306\nApple Maps: https://maps.apple.com/?q=49.2778885\,8.8430306
+DTEND:20261114T163000Z
+LOCATION:Peter-Hofmann-Weg 3\, 74889 Sinsheim
+DTSTART:20261114T150000Z
+SUMMARY:M-B: TSG Hoffenheim  11er - SG Oftersheim  11er
+UID:42a1edef-a449-4875-840b-36201635b747@42a1.org
 END:VEVENT
 END:VCALENDAR
