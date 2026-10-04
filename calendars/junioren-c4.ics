@@ -3,34 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261121T130000Z
+DTEND:20261017T130000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261121T113000Z
-SUMMARY:J-C4: SG Oftersheim 4 (flex) - SV Sandhofen (flex)
-UID:76296b6c-745f-48e6-8e7b-0212af2f2345@7629.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
-DTEND:20261114T134500Z
-LOCATION:Sportplatzweg 6\, 68804 Altlußheim
-DTSTART:20261114T121500Z
-SUMMARY:J-C4: SV Altlußheim (Flex) - SG Oftersheim 4 (flex)
-UID:f9d886ef-853f-4557-988f-ad094657a0eb@f9d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261107T164500Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261107T151500Z
-SUMMARY:J-C4: SG Oftersheim 4 (flex) - FV Leutershausen
-UID:71f6ece1-6574-4c47-8274-72cbe18fd2b8@71f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A\nAdresse: 
-DTEND:20261010T151500Z
-DTSTART:20261010T134500Z
-SUMMARY:J-C4: JSG Mannheim Süd (Flex) - SG Oftersheim 4 (flex)
-UID:5cab2997-ca48-4463-8b4d-b0434895151a@5cab.org
+DTSTART:20261017T113000Z
+SUMMARY:J-C4: SG Oftersheim 4 (flex) - JSG Edingen-Neckarhausen /​ FV 03 Ladenburg 2 (Flex)
+UID:f79e4c6b-ba18-4e02-83d9-5a2c6f9d02b9@f79e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, TSV Schönau NR\nAdresse: Rudolf-Maus-Str. 14\, 68307 Mannheim\nGPS: 49.5527479\, 8.4756059\nGoogle Maps: https://maps.google.com/?q=49.5527479\,8.4756059\nApple Maps: https://maps.apple.com/?q=49.5527479\,8.4756059
@@ -38,22 +15,37 @@ DTEND:20261024T134500Z
 LOCATION:Rudolf-Maus-Str. 14\, 68307 Mannheim
 DTSTART:20261024T121500Z
 SUMMARY:J-C4: TSV 47 Mannheim-Schönau (Flex) - SG Oftersheim 4 (flex)
-UID:43a91ddd-6bb2-4b03-8a03-eff22b08ee86@43a9.org
+UID:ca7272e4-44e4-440f-a344-78c008df7f65@ca72.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, VfB Gartenstadt KR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
-DTEND:20261003T134500Z
-LOCATION:Anemonenweg 20-40\, 68305 Mannheim
-DTSTART:20261003T121500Z
-SUMMARY:J-C4: VfB Gartenstadt 3 - SG Oftersheim 4 (flex)
-UID:b02d1043-5b30-4c8b-a9fe-51f1c0664228@b02d.org
+DESCRIPTION:Kreisklasse A\nAdresse: 
+DTEND:20261010T151500Z
+DTSTART:20261010T134500Z
+SUMMARY:J-C4: JSG Mannheim Süd (Flex) - SG Oftersheim 4 (flex)
+UID:6fff0c35-1d7f-4f24-8807-d9dc7ac2f0cd@6fff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261017T130000Z
+DTEND:20261121T130000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261017T113000Z
-SUMMARY:J-C4: SG Oftersheim 4 (flex) - JSG Edingen-Neckarhausen /​ FV 03 Ladenburg 2 (Flex)
-UID:a2c97d3b-782c-4a26-811f-eb1731689375@a2c9.org
+DTSTART:20261121T113000Z
+SUMMARY:J-C4: SG Oftersheim 4 (flex) - SV Sandhofen (flex)
+UID:cc5ad84a-7830-4770-9f06-e97453e3c1fe@cc5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261107T164500Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261107T151500Z
+SUMMARY:J-C4: SG Oftersheim 4 (flex) - FV Leutershausen
+UID:0468b06d-3372-4d69-9013-45d024a99f1d@0468.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
+DTEND:20261114T134500Z
+LOCATION:Sportplatzweg 6\, 68804 Altlußheim
+DTSTART:20261114T121500Z
+SUMMARY:J-C4: SV Altlußheim (Flex) - SG Oftersheim 4 (flex)
+UID:35457b5b-9809-4441-9313-39f3bb6efcc6@3545.org
 END:VEVENT
 END:VCALENDAR

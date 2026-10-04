@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SSV Vogelstang\nAdresse: Auf den Ried 8\, 68259 Mannheim\nGPS: 49.5012255\, 8.5371169\nGoogle Maps: https://maps.google.com/?q=49.5012255\,8.5371169\nApple Maps: https://maps.apple.com/?q=49.5012255\,8.5371169
-DTEND:20261025T173000Z
-LOCATION:Auf den Ried 8\, 68259 Mannheim
-DTSTART:20261025T160000Z
-SUMMARY:F1: SSV Vogelstang - SpG Mühlhausen 2 /​ Oftersheim
-UID:8e9a50fd-4c8c-46bb-929a-123e5586a4b0@8e9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTEND:20261011T103000Z
-LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTSTART:20261011T090000Z
-SUMMARY:F1: TSV Amicitia Viernheim 2 - SpG Mühlhausen 2 /​ Oftersheim
-UID:9ec642ca-fa42-48fb-b873-aefa386b8f45@9ec6.org
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Hohensachsen\nAdresse: Langewiesenweg 1\, 69469 Weinheim\nGPS: 49.5175424\, 8.6646323\nGoogle Maps: https://maps.google.com/?q=49.5175424\,8.6646323\nApple Maps: https://maps.apple.com/?q=49.5175424\,8.6646323
+DTEND:20270227T173000Z
+LOCATION:Langewiesenweg 1\, 69469 Weinheim
+DTSTART:20270227T160000Z
+SUMMARY:F1: SG Hohensachsen 2 - SpG Mühlhausen 2 /​ Oftersheim
+UID:6a289ce5-6cab-4822-b117-d1200314173b@6a28.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Rasenplatz\, Heidelberger SC\nAdresse: Harbigweg 10\, 69124 Heidelberg\nGPS: 49.3933851\, 8.6698313\nGoogle Maps: https://maps.google.com/?q=49.3933851\,8.6698313\nApple Maps: https://maps.apple.com/?q=49.3933851\,8.6698313
@@ -23,7 +15,15 @@ DTEND:20261128T143000Z
 LOCATION:Harbigweg 10\, 69124 Heidelberg
 DTSTART:20261128T130000Z
 SUMMARY:F1: Heidelberger SC 2 - SpG Mühlhausen 2 /​ Oftersheim
-UID:4efdd02f-5609-4d11-8d29-5315d87ff84d@4efd.org
+UID:7a3b36f1-679e-4efd-b5d4-b93fb8360953@7a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SSV Vogelstang\nAdresse: Auf den Ried 8\, 68259 Mannheim\nGPS: 49.5012255\, 8.5371169\nGoogle Maps: https://maps.google.com/?q=49.5012255\,8.5371169\nApple Maps: https://maps.apple.com/?q=49.5012255\,8.5371169
+DTEND:20261025T173000Z
+LOCATION:Auf den Ried 8\, 68259 Mannheim
+DTSTART:20261025T160000Z
+SUMMARY:F1: SSV Vogelstang - SpG Mühlhausen 2 /​ Oftersheim
+UID:bffd7ab1-49f4-4cbc-96b1-dbec49f7a989@bffd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: VfR-Jugend- & Sportzentrum Kunstrasenplatz 2\, Josef-Bußjäger-Weg\, 68165 Mannheim
@@ -31,39 +31,15 @@ DTEND:20261115T163000Z
 LOCATION:VfR-Jugend- & Sportzentrum Kunstrasenplatz 2\, Josef-Bußjäger-Weg\, 68165 Mannheim
 DTSTART:20261115T150000Z
 SUMMARY:F1: VfR Mannheim - SpG Mühlhausen 2 /​ Oftersheim
-UID:ca72330a-fb20-4441-aca4-f1c7595479e7@ca72.org
+UID:e9dfbc5d-0c12-45ae-8532-478a7108c7e4@e9df.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261018T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261018T150000Z
-SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - TSV Handschuhsheim
-UID:95d8b271-db19-4072-a1c4-659b305bf629@95d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261108T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261108T150000Z
-SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - SpG HD-Kirchheim 2/​ Ziegelhausen /​ Neckargemünd
-UID:3adb3120-4ae2-4af1-a10e-8fced7125eee@3adb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20270307T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20270307T150000Z
-SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - Polizei SV Mannheim 2 (flex)
-UID:b523697a-c61b-4c2e-a66a-dc1d87060c6e@b523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261121T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261121T150000Z
-SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - SpG Heidelberg Nord
-UID:c55cadd6-a388-4fc7-9b7d-4b73686503a8@c55c.org
+DESCRIPTION:Landesliga – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
+DTEND:20261011T103000Z
+LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
+DTSTART:20261011T090000Z
+SUMMARY:F1: TSV Amicitia Viernheim 2 - SpG Mühlhausen 2 /​ Oftersheim
+UID:d245c135-81b9-42a1-8687-9b87cf9a13d0@d245.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\, VfB Gartenstadt KR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
@@ -71,14 +47,38 @@ DTEND:20261004T163000Z
 LOCATION:Anemonenweg 20-40\, 68305 Mannheim
 DTSTART:20261004T150000Z
 SUMMARY:F1: VfB Gartenstadt - SpG Mühlhausen 2 /​ Oftersheim
-UID:a32d753a-164f-4ce2-80fe-1ab80cb0316c@a32d.org
+UID:f4f29a9a-a673-46bb-9167-a8257d9a08d6@f4f2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Hohensachsen\nAdresse: Langewiesenweg 1\, 69469 Weinheim\nGPS: 49.5175424\, 8.6646323\nGoogle Maps: https://maps.google.com/?q=49.5175424\,8.6646323\nApple Maps: https://maps.apple.com/?q=49.5175424\,8.6646323
-DTEND:20270227T173000Z
-LOCATION:Langewiesenweg 1\, 69469 Weinheim
-DTSTART:20270227T160000Z
-SUMMARY:F1: SG Hohensachsen 2 - SpG Mühlhausen 2 /​ Oftersheim
-UID:b3082109-5fe4-4fa8-aa24-44499c5aeca1@b308.org
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261108T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261108T150000Z
+SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - SpG HD-Kirchheim 2/​ Ziegelhausen /​ Neckargemünd
+UID:870cfc95-7106-402a-89c1-63254c41bef2@870c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20270307T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20270307T150000Z
+SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - Polizei SV Mannheim 2 (flex)
+UID:39201f01-6dc8-4f63-a783-d43b057c04e2@3920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261018T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261018T150000Z
+SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - TSV Handschuhsheim
+UID:5de021c5-e78a-48c6-9607-85f7eee55483@5de0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261121T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261121T150000Z
+SUMMARY:F1: SpG Mühlhausen 2 /​ Oftersheim - SpG Heidelberg Nord
+UID:05609183-7ea5-42d0-9424-f65c7ec67ba3@0560.org
 END:VEVENT
 END:VCALENDAR
