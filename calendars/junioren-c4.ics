@@ -3,26 +3,19 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261107T164500Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261107T151500Z
+SUMMARY:J-C4: SG Oftersheim 4 (flex) - FV Leutershausen
+UID:66addf01-fd78-4b88-970b-f2b37020c28e@66ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20261017T130000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261017T113000Z
 SUMMARY:J-C4: SG Oftersheim 4 (flex) - JSG Edingen-Neckarhausen /​ FV 03 Ladenburg 2 (Flex)
-UID:f79e4c6b-ba18-4e02-83d9-5a2c6f9d02b9@f79e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, TSV Schönau NR\nAdresse: Rudolf-Maus-Str. 14\, 68307 Mannheim\nGPS: 49.5527479\, 8.4756059\nGoogle Maps: https://maps.google.com/?q=49.5527479\,8.4756059\nApple Maps: https://maps.apple.com/?q=49.5527479\,8.4756059
-DTEND:20261024T134500Z
-LOCATION:Rudolf-Maus-Str. 14\, 68307 Mannheim
-DTSTART:20261024T121500Z
-SUMMARY:J-C4: TSV 47 Mannheim-Schönau (Flex) - SG Oftersheim 4 (flex)
-UID:ca7272e4-44e4-440f-a344-78c008df7f65@ca72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A\nAdresse: 
-DTEND:20261010T151500Z
-DTSTART:20261010T134500Z
-SUMMARY:J-C4: JSG Mannheim Süd (Flex) - SG Oftersheim 4 (flex)
-UID:6fff0c35-1d7f-4f24-8807-d9dc7ac2f0cd@6fff.org
+UID:f5d3f7a8-769a-4833-a555-0edf9a7be3a1@f5d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -30,15 +23,14 @@ DTEND:20261121T130000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261121T113000Z
 SUMMARY:J-C4: SG Oftersheim 4 (flex) - SV Sandhofen (flex)
-UID:cc5ad84a-7830-4770-9f06-e97453e3c1fe@cc5a.org
+UID:06e03ae1-971b-48f9-a331-39ea12954942@06e0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261107T164500Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261107T151500Z
-SUMMARY:J-C4: SG Oftersheim 4 (flex) - FV Leutershausen
-UID:0468b06d-3372-4d69-9013-45d024a99f1d@0468.org
+DESCRIPTION:Kreisklasse A\nAdresse: 
+DTEND:20261010T151500Z
+DTSTART:20261010T134500Z
+SUMMARY:J-C4: JSG Mannheim Süd (Flex) - SG Oftersheim 4 (flex)
+UID:53538307-dd4c-4836-83f6-6b061f3969de@5353.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
@@ -46,6 +38,14 @@ DTEND:20261114T134500Z
 LOCATION:Sportplatzweg 6\, 68804 Altlußheim
 DTSTART:20261114T121500Z
 SUMMARY:J-C4: SV Altlußheim (Flex) - SG Oftersheim 4 (flex)
-UID:35457b5b-9809-4441-9313-39f3bb6efcc6@3545.org
+UID:5158f2c4-6592-4fc0-8ef5-7e231b8c4413@5158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Rasenplatz\, TSV Schönau NR\nAdresse: Rudolf-Maus-Str. 14\, 68307 Mannheim\nGPS: 49.5527479\, 8.4756059\nGoogle Maps: https://maps.google.com/?q=49.5527479\,8.4756059\nApple Maps: https://maps.apple.com/?q=49.5527479\,8.4756059
+DTEND:20261024T134500Z
+LOCATION:Rudolf-Maus-Str. 14\, 68307 Mannheim
+DTSTART:20261024T121500Z
+SUMMARY:J-C4: TSV 47 Mannheim-Schönau (Flex) - SG Oftersheim 4 (flex)
+UID:fd1bee12-c195-4c59-9042-a262daf0f1eb@fd1b.org
 END:VEVENT
 END:VCALENDAR
