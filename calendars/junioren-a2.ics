@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261024T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261024T150000Z
+SUMMARY:J-A2: SG Oftersheim 2 - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
+UID:e9871847-0b54-4d6a-b675-126c75866439@e987.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
 DTEND:20261107T164500Z
 LOCATION:68526 Ladenburg
 DTSTART:20261107T151500Z
 SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2
-UID:8a94e40c-abaf-4c0a-b549-95e1e0596e06@8a94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
-DTEND:20261018T173000Z
-LOCATION:In der Anlage 11\, 68259 Mannheim
-DTSTART:20261018T160000Z
-SUMMARY:J-A2: DJK Feudenheim 2 (Flex) - SG Oftersheim 2
-UID:08879497-74a8-4295-991d-c05b3cd34e56@0887.org
+UID:a0420e59-3a57-42f8-8dca-8538c6d17b7d@a042.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -23,14 +23,14 @@ DTEND:20261114T183000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261114T170000Z
 SUMMARY:J-A2: SG Oftersheim 2 - Spvgg 03 Ilvesheim
-UID:a91db076-e755-44e1-ab9a-e3cea5a00b7a@a91d.org
+UID:8f068165-36cb-4c88-865b-8ca45bab8fb4@8f06.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261024T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261024T150000Z
-SUMMARY:J-A2: SG Oftersheim 2 - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
-UID:f6eb30e8-7bf6-4c51-a66e-ddc130dd4745@f6eb.org
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
+DTEND:20261018T173000Z
+LOCATION:In der Anlage 11\, 68259 Mannheim
+DTSTART:20261018T160000Z
+SUMMARY:J-A2: DJK Feudenheim 2 (Flex) - SG Oftersheim 2
+UID:74f21e2e-3537-44f7-8735-4dabaef37d5f@74f2.org
 END:VEVENT
 END:VCALENDAR
