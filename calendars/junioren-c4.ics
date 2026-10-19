@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
-DTEND:20261114T134500Z
-LOCATION:Sportplatzweg 6\, 68804 Altlußheim
-DTSTART:20261114T121500Z
-SUMMARY:J-C4: SV Altlußheim (Flex) - SG Oftersheim 4 (flex)
-UID:ca2aa26c-3687-4f3b-8a06-6c9e593f1c13@ca2a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, TSV Schönau NR\nAdresse: Rudolf-Maus-Str. 14\, 68307 Mannheim\nGPS: 49.5527479\, 8.4756059\nGoogle Maps: https://maps.google.com/?q=49.5527479\,8.4756059\nApple Maps: https://maps.apple.com/?q=49.5527479\,8.4756059
 DTEND:20261024T134500Z
 LOCATION:Rudolf-Maus-Str. 14\, 68307 Mannheim
 DTSTART:20261024T121500Z
 SUMMARY:J-C4: TSV 47 Mannheim-Schönau (Flex) - SG Oftersheim 4 (flex)
-UID:c82acce9-3b44-42c7-8c35-e48ce6685b10@c82a.org
+UID:88bc699e-8b3b-44fb-aa62-8a71ff61e5c6@88bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -23,7 +15,15 @@ DTEND:20261121T130000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261121T113000Z
 SUMMARY:J-C4: SG Oftersheim 4 (flex) - SV Sandhofen (flex)
-UID:97acf388-622c-4a16-9166-d964964b93e6@97ac.org
+UID:2a3e34bd-c275-4623-bc04-e52c0020e13e@2a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
+DTEND:20261114T134500Z
+LOCATION:Sportplatzweg 6\, 68804 Altlußheim
+DTSTART:20261114T121500Z
+SUMMARY:J-C4: SV Altlußheim (Flex) - SG Oftersheim 4 (flex)
+UID:fbb621c0-29e5-4ac1-a1b7-2756a62d717b@fbb6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -31,6 +31,6 @@ DTEND:20261107T164500Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261107T151500Z
 SUMMARY:J-C4: SG Oftersheim 4 (flex) - FV Leutershausen
-UID:9f8a6984-820d-4615-a23e-9fe4b03a0242@9f8a.org
+UID:7ab6dbf7-aafa-4671-82bd-2cac3fe6219d@7ab6.org
 END:VEVENT
 END:VCALENDAR
