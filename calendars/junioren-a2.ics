@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261024T163000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261024T150000Z
+SUMMARY:J-A2: SG Oftersheim 2 (Flex) - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
+UID:01018340-a524-4608-8195-7a9ecc33d5ed@0101.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
 DTEND:20261107T164500Z
 LOCATION:68526 Ladenburg
 DTSTART:20261107T151500Z
 SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2 (Flex)
-UID:566dbaba-b871-483a-9655-c2b53bd58237@566d.org
+UID:d5f3c9a8-9a99-4c1b-8aa3-3f4105467766@d5f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -15,14 +23,6 @@ DTEND:20261114T183000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261114T170000Z
 SUMMARY:J-A2: SG Oftersheim 2 (Flex) - Spvgg 03 Ilvesheim
-UID:b800c0dd-2c63-4a51-aa74-5fac6413c5c0@b800.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261024T163000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261024T150000Z
-SUMMARY:J-A2: SG Oftersheim 2 (Flex) - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
-UID:36c2c189-6b55-4834-b93a-d8493a9da5b0@36c2.org
+UID:90c1d1ce-bf94-4678-85ce-ba73cacc9277@90c1.org
 END:VEVENT
 END:VCALENDAR
