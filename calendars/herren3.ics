@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Uli Stielike Sportpark\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
-DTEND:20261101T100000Z
-LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
-DTSTART:20261101T083000Z
-SUMMARY:H3: Spvgg 06 Ketsch 3 - SG  Oftersheim 3
-UID:f75e4d69-a55e-4178-909c-f1934e776541@f75e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20270404T123000Z
+DTEND:20261025T123000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20270404T110000Z
-SUMMARY:H3: SG  Oftersheim 3 - FC Germania Friedrichsfeld
-UID:30ad6702-7411-45e4-a5b1-05913ec727f3@30ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Rot-Weiß Rheinau KR\nAdresse: Frobeniusstr. 1\, 68219 Mannheim\nGPS: 49.4165360\, 8.5362860\nGoogle Maps: https://maps.google.com/?q=49.4165360\,8.5362860\nApple Maps: https://maps.apple.com/?q=49.4165360\,8.5362860
-DTEND:20261122T123000Z
-LOCATION:Frobeniusstr. 1\, 68219 Mannheim
-DTSTART:20261122T110000Z
-SUMMARY:H3: SC Rot-Weiß Rheinau 2 - SG  Oftersheim 3
-UID:c6e26ce5-2ba4-4999-9fe4-2e0d00563281@c6e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Kunstrasenplatz Sportpark\, Wiesenplätz\nAdresse: 68782 Brühl\nGPS: 49.3953536\, 8.5340405\nGoogle Maps: https://maps.google.com/?q=49.3953536\,8.5340405\nApple Maps: https://maps.apple.com/?q=49.3953536\,8.5340405
-DTEND:20270411T120000Z
-LOCATION:68782 Brühl
-DTSTART:20270411T103000Z
-SUMMARY:H3: FV 1918 Brühl 2 - SG  Oftersheim 3
-UID:4d417bae-22c9-42af-89eb-0846b7eca3bc@4d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
-DTEND:20270314T143000Z
-LOCATION:Sportplatzweg 6\, 68804 Altlußheim
-DTSTART:20270314T130000Z
-SUMMARY:H3: SV Altlußheim - SG  Oftersheim 3
-UID:99f5d71c-65da-4b7a-9448-8a4dddf9275f@99f5.org
+DTSTART:20261025T110000Z
+SUMMARY:H3: SG  Oftersheim 3 - TSG Rheinau 2
+UID:aac5efcf-305a-4ac8-a2d8-a892a7baecd7@aac5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, TSV Neckarau KR\nAdresse: Kiesteichweg 9\, 68199 Mannheim\nGPS: 49.4471387\, 8.4708482\nGoogle Maps: https://maps.google.com/?q=49.4471387\,8.4708482\nApple Maps: https://maps.apple.com/?q=49.4471387\,8.4708482
@@ -47,31 +15,23 @@ DTEND:20270329T120000Z
 LOCATION:Kiesteichweg 9\, 68199 Mannheim
 DTSTART:20270329T103000Z
 SUMMARY:H3: TSV Neckarau 2 - SG  Oftersheim 3
-UID:1c679f89-451b-4b82-b7a1-6d292f9b8543@1c67.org
+UID:d95df82f-e935-4cd5-8f1e-05c850b4131b@d95d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261010T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261010T220000Z
-SUMMARY:H3: SG  Oftersheim 3 - FV 1918 Brühl 2
-UID:7f96220c-b41e-4770-b966-15a2bba97cf6@7f96.org
+DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Rot-Weiß Rheinau KR\nAdresse: Frobeniusstr. 1\, 68219 Mannheim\nGPS: 49.4165360\, 8.5362860\nGoogle Maps: https://maps.google.com/?q=49.4165360\,8.5362860\nApple Maps: https://maps.apple.com/?q=49.4165360\,8.5362860
+DTEND:20261122T123000Z
+LOCATION:Frobeniusstr. 1\, 68219 Mannheim
+DTSTART:20261122T110000Z
+SUMMARY:H3: SC Rot-Weiß Rheinau 2 - SG  Oftersheim 3
+UID:59c3b15c-909a-4004-b5c6-b05667e4f9d9@59c3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261108T123000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261108T110000Z
-SUMMARY:H3: SG  Oftersheim 3 - FC Badenia Hirschacker
-UID:1f5d0f77-137b-4676-ae0c-6dca5d8f658f@1f5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20270321T123000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20270321T110000Z
-SUMMARY:H3: SG  Oftersheim 3 - KSC Schwetzingen
-UID:08d88174-c689-4426-af99-a5664752c85c@08d8.org
+DESCRIPTION:Kreisklasse B – Rasenplatz\, SV Altlußheim NR\nAdresse: Sportplatzweg 6\, 68804 Altlußheim\nGPS: 49.3068506\, 8.4948445\nGoogle Maps: https://maps.google.com/?q=49.3068506\,8.4948445\nApple Maps: https://maps.apple.com/?q=49.3068506\,8.4948445
+DTEND:20270314T143000Z
+LOCATION:Sportplatzweg 6\, 68804 Altlußheim
+DTSTART:20270314T130000Z
+SUMMARY:H3: SV Altlußheim - SG  Oftersheim 3
+UID:0aa89119-2958-4b67-8ab9-ed1867423e3d@0aa8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -79,15 +39,55 @@ DTEND:20260926T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20260926T220000Z
 SUMMARY:H3: SG  Oftersheim 3 - TSV Neckarau 2
-UID:431511d7-7853-4186-ba93-b3c00680c842@4315.org
+UID:b7fd6f7f-d0ca-4bf3-8c71-8fa784672f03@b7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261010T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261010T220000Z
+SUMMARY:H3: SG  Oftersheim 3 - FV 1918 Brühl 2
+UID:650cfb17-0927-41f8-b1c2-7e0e77d5ead2@650c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261025T123000Z
+DTEND:20270404T123000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261025T110000Z
-SUMMARY:H3: SG  Oftersheim 3 - TSG Rheinau 2
-UID:4caa1942-08ca-4bc9-84cf-6375b3bc7f29@4caa.org
+DTSTART:20270404T110000Z
+SUMMARY:H3: SG  Oftersheim 3 - FC Germania Friedrichsfeld
+UID:1881817a-4fc7-47e3-bac0-768f38b305bb@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Uli Stielike Sportpark\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
+DTEND:20261101T100000Z
+LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
+DTSTART:20261101T083000Z
+SUMMARY:H3: Spvgg 06 Ketsch 3 - SG  Oftersheim 3
+UID:889050af-7c7c-4e35-ba21-44f3d0873a69@8890.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20270321T123000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20270321T110000Z
+SUMMARY:H3: SG  Oftersheim 3 - KSC Schwetzingen
+UID:344b45ee-09d7-4bc8-b5e0-5b0b8edd5340@344b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261108T123000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261108T110000Z
+SUMMARY:H3: SG  Oftersheim 3 - FC Badenia Hirschacker
+UID:3c75caae-635f-433c-a4ef-a3545a6c1dfb@3c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse B – Kunstrasenplatz\, Kunstrasenplatz Sportpark\, Wiesenplätz\nAdresse: 68782 Brühl\nGPS: 49.3953536\, 8.5340405\nGoogle Maps: https://maps.google.com/?q=49.3953536\,8.5340405\nApple Maps: https://maps.apple.com/?q=49.3953536\,8.5340405
+DTEND:20270411T120000Z
+LOCATION:68782 Brühl
+DTSTART:20270411T103000Z
+SUMMARY:H3: FV 1918 Brühl 2 - SG  Oftersheim 3
+UID:e14cedc2-e453-4145-9a33-aa7ffc434025@e14c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse B – Kunstrasenplatz\nAdresse: VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
@@ -95,6 +95,6 @@ DTEND:20261115T113000Z
 LOCATION:VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
 DTSTART:20261115T100000Z
 SUMMARY:H3: VfL Kurpfalz Neckarau 2 - SG  Oftersheim 3
-UID:1e2f353c-1e59-41da-ba98-1f35ee0671a4@1e2f.org
+UID:ebcecf42-cf6b-40e2-b02c-d8fea863feaf@ebce.org
 END:VEVENT
 END:VCALENDAR
