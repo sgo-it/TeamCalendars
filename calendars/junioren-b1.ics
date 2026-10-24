@@ -2,108 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20270306T143000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20270306T130000Z
-SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - ASC Neuenheim
-UID:595dd437-91fa-4240-a38c-26edf706d170@595d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Türkspor Mannheim\nAdresse: Gartenschauweg 24\, 68165 Mannheim\nGPS: 49.4824704\, 8.5002983\nGoogle Maps: https://maps.google.com/?q=49.4824704\,8.5002983\nApple Maps: https://maps.apple.com/?q=49.4824704\,8.5002983
-DTEND:20251128T233000Z
-LOCATION:Gartenschauweg 24\, 68165 Mannheim
-DTSTART:20251128T220000Z
-SUMMARY:J-B1: Türkspor Mannheim (Flex) - SG Oftersheim
-UID:9868097f-7f7c-4f6e-bad8-a9481c4e2e3c@9868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Rasenplatz\, FC Mühlhausen\nAdresse: Bruchsaler Str. 38\, 69242 Mühlhausen\nGPS: 49.2414802\, 8.7228158\nGoogle Maps: https://maps.google.com/?q=49.2414802\,8.7228158\nApple Maps: https://maps.apple.com/?q=49.2414802\,8.7228158
-DTEND:20261024T143000Z
-LOCATION:Bruchsaler Str. 38\, 69242 Mühlhausen
-DTSTART:20261024T130000Z
-SUMMARY:J-B1: 1. FC Mühlhausen - JSG Oftersheim /​ SV Rohrhof
-UID:a70c4657-685c-4b34-bc9f-45076b4ce65c@a70c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, TSV Neckarau KR\nAdresse: Kiesteichweg 9\, 68199 Mannheim\nGPS: 49.4471387\, 8.4708482\nGoogle Maps: https://maps.google.com/?q=49.4471387\,8.4708482\nApple Maps: https://maps.apple.com/?q=49.4471387\,8.4708482
-DTEND:20261013T233000Z
-LOCATION:Kiesteichweg 9\, 68199 Mannheim
-DTSTART:20261013T220000Z
-SUMMARY:J-B1: TSV Neckarau - JSG Oftersheim /​ SV Rohrhof
-UID:77d68a27-b17e-442e-82a1-33f3c11fd5b6@77d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Badenia Hirschacker\nAdresse: Eiskellerweg 1\, 68723 Schwetzingen\nGPS: 49.4028870\, 8.5547530\nGoogle Maps: https://maps.google.com/?q=49.4028870\,8.5547530\nApple Maps: https://maps.apple.com/?q=49.4028870\,8.5547530
-DTEND:20260417T233000Z
-LOCATION:Eiskellerweg 1\, 68723 Schwetzingen
-DTSTART:20260417T220000Z
-SUMMARY:J-B1: SV 98 Schwetzingen 2 - SG Oftersheim
-UID:4614d819-998e-48f5-a4df-d15b7914b542@4614.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, TSG Lützelsachsen\nAdresse: Weimarer Str. 1\, 69469 Weinheim\nGPS: 49.5283256\, 8.6463109\nGoogle Maps: https://maps.google.com/?q=49.5283256\,8.6463109\nApple Maps: https://maps.apple.com/?q=49.5283256\,8.6463109
-DTEND:20260515T233000Z
-LOCATION:Weimarer Str. 1\, 69469 Weinheim
-DTSTART:20260515T220000Z
-SUMMARY:J-B1: TSG 91/​09 Lützelsachsen - SG Oftersheim
-UID:32336ab2-e6b3-468e-b519-8ea2d195117c@3233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261128T143000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261128T130000Z
-SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - SG HD-Kirchheim 2
-UID:f3728775-2650-4ced-a575-7e81d4324f09@f372.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, DJK Feudenheim\nAdresse: In der Anlage 11\, 68259 Mannheim\nGPS: 49.4861302\, 8.5156391\nGoogle Maps: https://maps.google.com/?q=49.4861302\,8.5156391\nApple Maps: https://maps.apple.com/?q=49.4861302\,8.5156391
 DTEND:20251114T233000Z
 LOCATION:In der Anlage 11\, 68259 Mannheim
 DTSTART:20251114T220000Z
 SUMMARY:J-B1: DJK Feudenheim - SG Oftersheim
-UID:6edcbca0-4c89-43d4-b7d2-0f571c5790ac@6edc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261114T143000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261114T130000Z
-SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - SKV Sandhofen
-UID:f4ef3177-aab6-41bf-b4f6-9f8f1e0ca9ad@f4ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
-DTEND:20250523T233000Z
-LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
-DTSTART:20250523T220000Z
-SUMMARY:J-B1: JSG Nördliche Bergstraße - SG Oftersheim
-UID:c868c75b-cb1b-4429-b81d-3e6f322162dd@c868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261107T143000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261107T130000Z
-SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - Eberbacher SC
-UID:f5a203fb-4b53-4665-bca3-7216ffdced20@f5a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: FC Zuzenhausen Kunstrasen 2\, Häuselgrundweg\, 74939 Zuzenhausen
-DTEND:20270403T123000Z
-LOCATION:FC Zuzenhausen Kunstrasen 2\, Häuselgrundweg\, 74939 Zuzenhausen
-DTSTART:20270403T110000Z
-SUMMARY:J-B1: JSG Kaiserberg - JSG Oftersheim /​ SV Rohrhof
-UID:c9d3e711-8af1-49e2-91a8-13a12cd00bfa@c9d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Fußballcampus Heidelberg\nAdresse: Tiergartenstr. 124\, 69120 Heidelberg\nGPS: 49.4257295\, 8.6578278\nGoogle Maps: https://maps.google.com/?q=49.4257295\,8.6578278\nApple Maps: https://maps.apple.com/?q=49.4257295\,8.6578278
-DTEND:20250115T233000Z
-LOCATION:Tiergartenstr. 124\, 69120 Heidelberg
-DTSTART:20250115T220000Z
-SUMMARY:J-B1: ASC Neuenheim - SG Oftersheim
-UID:7ba7c37a-fbb5-467c-ba49-fab6a20d4e98@7ba7.org
+UID:a23409fc-164a-4c24-a7b7-fed5a8b08a09@a234.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -111,39 +15,15 @@ DTEND:20250705T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20250705T220000Z
 SUMMARY:J-B1: SG Oftersheim - Spvgg 06 Ketsch
-UID:2fc7ed6f-aaf0-4364-a416-ba7df4d2df4d@2fc7.org
+UID:7dff6f4c-2f51-419f-ae47-b19263a67150@7dff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260123T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260123T220000Z
-SUMMARY:J-B1: SG Oftersheim - SV Rohrhof
-UID:280a4eb3-4f40-40f8-b0c1-d271066a7549@280a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: Waldstadion Kunstrasen 1\, Industriestraße 32\, 68519 Viernheim
-DTEND:20270313T133000Z
-LOCATION:Waldstadion Kunstrasen 1\, Industriestraße 32\, 68519 Viernheim
-DTSTART:20270313T120000Z
-SUMMARY:J-B1: TSV Amicitia Viernheim - JSG Oftersheim /​ SV Rohrhof
-UID:6c23db68-eba5-4981-8302-3150c10fab0d@6c23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250124T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250124T220000Z
-SUMMARY:J-B1: SG Oftersheim - DJK/​FC Ziegelhausen-Peterstal
-UID:751b6679-2512-4d33-83b5-822b1bf6e87a@751b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesliga – Kunstrasenplatz\, FV Nußloch\, Kunstrasenplatz\nAdresse: Rudolf-Harbig-Str. 2\, 69226 Nußloch\nGPS: 49.3276861\, 8.6753137\nGoogle Maps: https://maps.google.com/?q=49.3276861\,8.6753137\nApple Maps: https://maps.apple.com/?q=49.3276861\,8.6753137
-DTEND:20261121T140000Z
-LOCATION:Rudolf-Harbig-Str. 2\, 69226 Nußloch
-DTSTART:20261121T123000Z
-SUMMARY:J-B1: FV Nußloch - JSG Oftersheim /​ SV Rohrhof
-UID:45ae2bfc-9205-43b9-b459-d22321a83ec1@45ae.org
+DESCRIPTION:Landesliga – Rasenplatz\, FC Mühlhausen\nAdresse: Bruchsaler Str. 38\, 69242 Mühlhausen\nGPS: 49.2414802\, 8.7228158\nGoogle Maps: https://maps.google.com/?q=49.2414802\,8.7228158\nApple Maps: https://maps.apple.com/?q=49.2414802\,8.7228158
+DTEND:20261024T143000Z
+LOCATION:Bruchsaler Str. 38\, 69242 Mühlhausen
+DTSTART:20261024T130000Z
+SUMMARY:J-B1: 1. FC Mühlhausen - JSG Oftersheim /​ SV Rohrhof
+UID:84a07738-6f65-4b9f-84b2-0709779b14db@84a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -151,7 +31,87 @@ DTEND:20270320T143000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20270320T130000Z
 SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - JSG Mauer /​ Lobbach
-UID:b8017e11-f2a5-48d0-9611-db954753e390@b801.org
+UID:7ebabd17-afce-4b02-af68-8bff66640392@7eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, TSV Neckarau KR\nAdresse: Kiesteichweg 9\, 68199 Mannheim\nGPS: 49.4471387\, 8.4708482\nGoogle Maps: https://maps.google.com/?q=49.4471387\,8.4708482\nApple Maps: https://maps.apple.com/?q=49.4471387\,8.4708482
+DTEND:20261013T233000Z
+LOCATION:Kiesteichweg 9\, 68199 Mannheim
+DTSTART:20261013T220000Z
+SUMMARY:J-B1: TSV Neckarau - JSG Oftersheim /​ SV Rohrhof
+UID:2f2bb65b-193e-455d-acc6-9facd55602a1@2f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Badenia Hirschacker\nAdresse: Eiskellerweg 1\, 68723 Schwetzingen\nGPS: 49.4028870\, 8.5547530\nGoogle Maps: https://maps.google.com/?q=49.4028870\,8.5547530\nApple Maps: https://maps.apple.com/?q=49.4028870\,8.5547530
+DTEND:20260417T233000Z
+LOCATION:Eiskellerweg 1\, 68723 Schwetzingen
+DTSTART:20260417T220000Z
+SUMMARY:J-B1: SV 98 Schwetzingen 2 - SG Oftersheim
+UID:cef360b2-2400-4cb3-8f52-7c0e81b7e1ff@cef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Türkspor Mannheim\nAdresse: Gartenschauweg 24\, 68165 Mannheim\nGPS: 49.4824704\, 8.5002983\nGoogle Maps: https://maps.google.com/?q=49.4824704\,8.5002983\nApple Maps: https://maps.apple.com/?q=49.4824704\,8.5002983
+DTEND:20251128T233000Z
+LOCATION:Gartenschauweg 24\, 68165 Mannheim
+DTSTART:20251128T220000Z
+SUMMARY:J-B1: Türkspor Mannheim (Flex) - SG Oftersheim
+UID:21977eb9-40db-42a0-b0cd-17e2c11d056d@2197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, FV Nußloch\, Kunstrasenplatz\nAdresse: Rudolf-Harbig-Str. 2\, 69226 Nußloch\nGPS: 49.3276861\, 8.6753137\nGoogle Maps: https://maps.google.com/?q=49.3276861\,8.6753137\nApple Maps: https://maps.apple.com/?q=49.3276861\,8.6753137
+DTEND:20261121T140000Z
+LOCATION:Rudolf-Harbig-Str. 2\, 69226 Nußloch
+DTSTART:20261121T123000Z
+SUMMARY:J-B1: FV Nußloch - JSG Oftersheim /​ SV Rohrhof
+UID:0943e0b1-eef7-48a5-b05b-cb78a5d99194@0943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SV Laudenbach\nAdresse: Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach\nGPS: 49.6116108\, 8.6400525\nGoogle Maps: https://maps.google.com/?q=49.6116108\,8.6400525\nApple Maps: https://maps.apple.com/?q=49.6116108\,8.6400525
+DTEND:20250523T233000Z
+LOCATION:Dr.-Werner-Freyberg-Str. 5\, 69514 Laudenbach
+DTSTART:20250523T220000Z
+SUMMARY:J-B1: JSG Nördliche Bergstraße - SG Oftersheim
+UID:37405a1d-2cb1-4fdf-832c-4190e57206e5@3740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20250124T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20250124T220000Z
+SUMMARY:J-B1: SG Oftersheim - DJK/​FC Ziegelhausen-Peterstal
+UID:6f02ce47-33e3-4c04-a748-34d580e3fd0f@6f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: Waldstadion Kunstrasen 1\, Industriestraße 32\, 68519 Viernheim
+DTEND:20270313T133000Z
+LOCATION:Waldstadion Kunstrasen 1\, Industriestraße 32\, 68519 Viernheim
+DTSTART:20270313T120000Z
+SUMMARY:J-B1: TSV Amicitia Viernheim - JSG Oftersheim /​ SV Rohrhof
+UID:6e702406-1335-4e76-9ec1-4e9ebcdd5a63@6e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, TSG Lützelsachsen\nAdresse: Weimarer Str. 1\, 69469 Weinheim\nGPS: 49.5283256\, 8.6463109\nGoogle Maps: https://maps.google.com/?q=49.5283256\,8.6463109\nApple Maps: https://maps.apple.com/?q=49.5283256\,8.6463109
+DTEND:20260515T233000Z
+LOCATION:Weimarer Str. 1\, 69469 Weinheim
+DTSTART:20260515T220000Z
+SUMMARY:J-B1: TSG 91/​09 Lützelsachsen - SG Oftersheim
+UID:de0bdceb-38e0-4499-91e1-6dce3c0d4b04@de0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Fußballcampus Heidelberg\nAdresse: Tiergartenstr. 124\, 69120 Heidelberg\nGPS: 49.4257295\, 8.6578278\nGoogle Maps: https://maps.google.com/?q=49.4257295\,8.6578278\nApple Maps: https://maps.apple.com/?q=49.4257295\,8.6578278
+DTEND:20250115T233000Z
+LOCATION:Tiergartenstr. 124\, 69120 Heidelberg
+DTSTART:20250115T220000Z
+SUMMARY:J-B1: ASC Neuenheim - SG Oftersheim
+UID:684502cf-87b9-434c-95ea-952eeae8584a@6845.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\nAdresse: FC Zuzenhausen Kunstrasen 2\, Häuselgrundweg\, 74939 Zuzenhausen
+DTEND:20270403T123000Z
+LOCATION:FC Zuzenhausen Kunstrasen 2\, Häuselgrundweg\, 74939 Zuzenhausen
+DTSTART:20270403T110000Z
+SUMMARY:J-B1: JSG Kaiserberg - JSG Oftersheim /​ SV Rohrhof
+UID:a650ce13-03a1-464a-ae47-079da8886f86@a650.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreispokal – Kunstrasenplatz\, Uli Stielike Sportpark\nAdresse: Am Waldsportplatz 1\, 68775 Ketsch\nGPS: 49.3699608\, 8.5419152\nGoogle Maps: https://maps.google.com/?q=49.3699608\,8.5419152\nApple Maps: https://maps.apple.com/?q=49.3699608\,8.5419152
@@ -159,6 +119,46 @@ DTEND:20261118T183000Z
 LOCATION:Am Waldsportplatz 1\, 68775 Ketsch
 DTSTART:20261118T170000Z
 SUMMARY:J-B1: Spvgg 06 Ketsch - JSG Oftersheim /​ SV Rohrhof
-UID:13d1253d-5612-488c-a349-d2f52767a647@13d1.org
+UID:d5433ce3-d4fe-461e-ae28-9314ec6011c8@d543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261128T143000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261128T130000Z
+SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - SG HD-Kirchheim 2
+UID:1933dca0-f190-4cb7-a6c1-269bef17a6ae@1933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261107T143000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261107T130000Z
+SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - Eberbacher SC
+UID:258db436-b1be-4914-8512-d38ba7aed232@258d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20270306T143000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20270306T130000Z
+SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - ASC Neuenheim
+UID:63f7d644-f12d-481e-928a-2296a323d9e4@63f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesliga – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261114T143000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261114T130000Z
+SUMMARY:J-B1: JSG Oftersheim /​ SV Rohrhof - SKV Sandhofen
+UID:4b2354cd-76e5-48e0-9c8b-d0d721a82a50@4b23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260123T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260123T220000Z
+SUMMARY:J-B1: SG Oftersheim - SV Rohrhof
+UID:ef638413-9efa-4bec-aab2-b7c553ea1f3c@ef63.org
 END:VEVENT
 END:VCALENDAR

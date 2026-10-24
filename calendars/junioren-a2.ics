@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
+DTEND:20261107T164500Z
+LOCATION:68526 Ladenburg
+DTSTART:20261107T151500Z
+SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2 (Flex)
+UID:ddaecdf3-d01e-4ce7-9a63-9b27c0705662@ddae.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20261114T183000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261114T170000Z
 SUMMARY:J-A2: SG Oftersheim 2 (Flex) - Spvgg 03 Ilvesheim
-UID:8213fd03-a683-4916-9c52-fee0f26e130b@8213.org
+UID:4dd1ae00-f368-4fac-af9d-ecc6820fd0e0@4dd1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -15,14 +23,6 @@ DTEND:20261024T163000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261024T150000Z
 SUMMARY:J-A2: SG Oftersheim 2 (Flex) - JSG Weinheim 3 /​ Unter-Flockenbach /​ Trösel
-UID:918d6d5f-e941-4feb-a3d7-3a99aa70bdfa@918d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
-DTEND:20261107T164500Z
-LOCATION:68526 Ladenburg
-DTSTART:20261107T151500Z
-SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2 (Flex)
-UID:11d9b67d-bb21-4b16-b61c-0d6b1a2a264a@11d9.org
+UID:45e84fc6-0bed-4302-9705-8c37c170676d@45e8.org
 END:VEVENT
 END:VCALENDAR
