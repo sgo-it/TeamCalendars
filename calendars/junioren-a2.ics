@@ -2,19 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, Römerstadion Ladenburg KR\, Neckarstr.\nAdresse: 68526 Ladenburg\nGPS: 49.4724349\, 8.6106455\nGoogle Maps: https://maps.google.com/?q=49.4724349\,8.6106455\nApple Maps: https://maps.apple.com/?q=49.4724349\,8.6106455
-DTEND:20261107T164500Z
-LOCATION:68526 Ladenburg
-DTSTART:20261107T151500Z
-SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2 (Flex)
-UID:ae4aa018-6494-4c8f-bc3f-7fd69a96e9a9@ae4a.org
+DESCRIPTION:Kreisklasse A\nAdresse: 
+DTEND:20261107T180000Z
+DTSTART:20261107T163000Z
+SUMMARY:J-A2: JSG FV 03 Ladenburg /​ Edingen-Neckarhausen - SG Oftersheim 2 (Flex) zg.
+UID:45bf8d97-bb48-4e93-bf7b-2a2047c064bc@45bf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261114T183000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261114T170000Z
-SUMMARY:J-A2: SG Oftersheim 2 (Flex) - Spvgg 03 Ilvesheim
-UID:19a82a5d-2f57-45f0-9482-3a9a48a6afca@19a8.org
+DESCRIPTION:Kreisklasse A\nAdresse: 
+DTEND:20261114T180000Z
+DTSTART:20261114T163000Z
+SUMMARY:J-A2: SG Oftersheim 2 (Flex) zg. - Spvgg 03 Ilvesheim
+UID:5302f321-6df9-4d23-8e7f-f6f6d2e2c92a@5302.org
 END:VEVENT
 END:VCALENDAR
