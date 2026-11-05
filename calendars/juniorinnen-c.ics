@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251121T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251121T220000Z
-SUMMARY:M-C: SG Oftersheim  9er - SG Hohensachsen  9er
-UID:5e5b6777-1980-4450-a890-3b3ea058278e@5e5b.org
+DESCRIPTION: – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
+DTEND:20251003T233000Z
+LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
+DTSTART:20251003T220000Z
+SUMMARY:M-C: TSV Amicitia Viernheim  9er - SG Oftersheim  9er
+UID:08a12ae9-c903-4ef0-9a27-c44c58d56f01@08a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Rasenplatz\, FC Vikt. Odenheim\nAdresse: Am Felsenkeller 12\, 76684 Östringen\nGPS: 49.1842475\, 8.7388688\nGoogle Maps: https://maps.google.com/?q=49.1842475\,8.7388688\nApple Maps: https://maps.apple.com/?q=49.1842475\,8.7388688
@@ -15,79 +15,7 @@ DTEND:20261114T133000Z
 LOCATION:Am Felsenkeller 12\, 76684 Östringen
 DTSTART:20261114T120000Z
 SUMMARY:M-C: FC Odenheim  9er - SG Oftersheim  9er
-UID:824e6103-ef91-43d6-b401-03efe0cb5101@824e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260221T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260221T220000Z
-SUMMARY:M-C: SG Oftersheim - TuS Mingolsheim
-UID:4c0ee6ab-4a99-4e67-b919-c09265a142ec@4c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTEND:20260929T233000Z
-LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTSTART:20260929T220000Z
-SUMMARY:M-C: TSV Amicitia Viernheim 2 9er - SG Oftersheim 9er
-UID:e29f18cc-a54b-4658-87f5-51806876a759@e29f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260214T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260214T220000Z
-SUMMARY:M-C: SG Oftersheim - TSG Rheinau
-UID:465b928a-2d6e-4698-a8b4-34fa8c0e4c92@465b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, TSG Rheinau\nAdresse: Distelsand 11\, 68219 Mannheim\nGPS: 49.4288828\, 8.5335065\nGoogle Maps: https://maps.google.com/?q=49.4288828\,8.5335065\nApple Maps: https://maps.apple.com/?q=49.4288828\,8.5335065
-DTEND:20241122T233000Z
-LOCATION:Distelsand 11\, 68219 Mannheim
-DTSTART:20241122T220000Z
-SUMMARY:M-C: TSG Rheinau  7er - SG Oftersheim  9er
-UID:40cf51e9-c432-48d3-8afb-2c29a94e72b8@40cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20241116T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20241116T220000Z
-SUMMARY:M-C: SG Oftersheim  9er - Polizei SV Mannheim  7er
-UID:9d7539c3-e2e7-4488-876e-d68943810df6@9d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Landesfreundschaftsspiele – Kunstrasenplatz\, TSG Rohrbach KR\nAdresse: Erlenweg 24\, 69124 Heidelberg\nGPS: 49.3756633\, 8.6767134\nGoogle Maps: https://maps.google.com/?q=49.3756633\,8.6767134\nApple Maps: https://maps.apple.com/?q=49.3756633\,8.6767134
-DTEND:20261128T093000Z
-LOCATION:Erlenweg 24\, 69124 Heidelberg
-DTSTART:20261128T080000Z
-SUMMARY:M-C: TSG Rohrbach - SG Oftersheim
-UID:154a55aa-1942-4f21-b587-7fac788da89d@154a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260418T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260418T220000Z
-SUMMARY:M-C: SG Oftersheim  9er - SG HD-Kirchheim  9er
-UID:bdabd93a-4b73-4ee0-a194-9bfd2528c1ea@bdab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251011T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251011T220000Z
-SUMMARY:M-C: SG Oftersheim  9er - Polizei SV Mannheim  9er
-UID:33c1e80e-76ca-465c-bfa1-d203c9398e44@33c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\, SG Oftersheim NR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20260516T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20260516T220000Z
-SUMMARY:M-C: SG Oftersheim  9er - ASV Hagsfeld  7er
-UID:a727c56f-7dcd-4c99-8c4e-0755d16aef04@a727.org
+UID:70551e58-0102-44f8-a7d9-e112358590f8@7055.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Verbandspokal – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -95,14 +23,86 @@ DTEND:20261107T120000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20261107T103000Z
 SUMMARY:M-C: SG Oftersheim 9er - FC Viktoria Hettingen 9er
-UID:13a377d8-0162-4428-8296-4f2e72018881@13a3.org
+UID:0a2846f4-8f7b-43de-97f6-9630df47eb53@0a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260214T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260214T220000Z
+SUMMARY:M-C: SG Oftersheim - TSG Rheinau
+UID:4dbbaa2b-4054-4b43-a710-038a4fd7d04a@4dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20241116T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20241116T220000Z
+SUMMARY:M-C: SG Oftersheim  9er - Polizei SV Mannheim  7er
+UID:54fa78c5-8d89-45b7-b001-c17df241cdd3@54fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251121T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251121T220000Z
+SUMMARY:M-C: SG Oftersheim  9er - SG Hohensachsen  9er
+UID:79efece7-18c7-43f9-b9fa-8e98008ae04d@79ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251011T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251011T220000Z
+SUMMARY:M-C: SG Oftersheim  9er - Polizei SV Mannheim  9er
+UID:4704f1a5-7f2e-471c-8510-0ea5ed8a4697@4704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Landesfreundschaftsspiele – Kunstrasenplatz\, TSG Rohrbach KR\nAdresse: Erlenweg 24\, 69124 Heidelberg\nGPS: 49.3756633\, 8.6767134\nGoogle Maps: https://maps.google.com/?q=49.3756633\,8.6767134\nApple Maps: https://maps.apple.com/?q=49.3756633\,8.6767134
+DTEND:20261128T093000Z
+LOCATION:Erlenweg 24\, 69124 Heidelberg
+DTSTART:20261128T080000Z
+SUMMARY:M-C: TSG Rohrbach - SG Oftersheim
+UID:f9eaf90d-2659-4953-9ada-e606b7daa934@f9ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260221T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260221T220000Z
+SUMMARY:M-C: SG Oftersheim - TuS Mingolsheim
+UID:3ea848b3-b350-40d6-b0f0-cd69991b53a9@3ea8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTEND:20251003T233000Z
+DTEND:20260929T233000Z
 LOCATION:Stadion Lorscher Straße Rasen1\, Lorscher Str. 84\, 68519 Viernheim
-DTSTART:20251003T220000Z
-SUMMARY:M-C: TSV Amicitia Viernheim  9er - SG Oftersheim  9er
-UID:5c0ff6eb-5631-4f54-b41f-a91145346b54@5c0f.org
+DTSTART:20260929T220000Z
+SUMMARY:M-C: TSV Amicitia Viernheim 2 9er - SG Oftersheim 9er
+UID:9ebc4950-8f3f-4c25-99df-c3d9b3478bb8@9ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, TSG Rheinau\nAdresse: Distelsand 11\, 68219 Mannheim\nGPS: 49.4288828\, 8.5335065\nGoogle Maps: https://maps.google.com/?q=49.4288828\,8.5335065\nApple Maps: https://maps.apple.com/?q=49.4288828\,8.5335065
+DTEND:20241122T233000Z
+LOCATION:Distelsand 11\, 68219 Mannheim
+DTSTART:20241122T220000Z
+SUMMARY:M-C: TSG Rheinau  7er - SG Oftersheim  9er
+UID:3c056d48-6167-428e-8120-5d3f5deb78ca@3c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\, SG Oftersheim NR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260516T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260516T220000Z
+SUMMARY:M-C: SG Oftersheim  9er - ASV Hagsfeld  7er
+UID:879fee7c-7542-4fc0-aaa7-01cb97d94506@879f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20260418T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20260418T220000Z
+SUMMARY:M-C: SG Oftersheim  9er - SG HD-Kirchheim  9er
+UID:5ba85e86-b42f-4ca8-8683-4d709990744e@5ba8.org
 END:VEVENT
 END:VCALENDAR
