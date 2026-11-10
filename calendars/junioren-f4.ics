@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Kinderfußball\nAdresse: 
-DTEND:20261121T083000Z
-DTSTART:20261121T070000Z
-SUMMARY:J-F4: DJK/​Fort. Edingen-Neckarhausen 2 - Kinderfestival - SG Oftersheim 4
-UID:da25ed77-08fb-4f2a-a02d-c1a743d645d1@da25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kinderfußball\nAdresse: 
 DTEND:20261114T083000Z
 DTSTART:20261114T070000Z
 SUMMARY:J-F4: SC Käfertal 6 - Kinderfestival - SG Oftersheim 4
-UID:501e1274-d705-4a3d-838e-6f1a46f2ad62@501e.org
+UID:65f19c5a-306f-4a01-8225-be9a3722de4e@65f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kinderfußball\nAdresse: 
+DTEND:20261121T083000Z
+DTSTART:20261121T070000Z
+SUMMARY:J-F4: DJK/​Fort. Edingen-Neckarhausen 2 - Kinderfestival - SG Oftersheim 4
+UID:8fd5fb1c-d206-4c37-aeb6-ddf880ed7f27@8fd5.org
 END:VEVENT
 END:VCALENDAR
