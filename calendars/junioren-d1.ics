@@ -2,76 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\nAdresse: VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
-DTEND:20251114T233000Z
-LOCATION:VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
-DTSTART:20251114T220000Z
-SUMMARY:J-D1: VfL Kurpfalz Neckarau - SG Oftersheim
-UID:6aa7f0a0-d1ec-453d-be41-5c8c734dc90b@6aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251003T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251003T220000Z
-SUMMARY:J-D1: SG Oftersheim - SC Olympia Neulußheim
-UID:92f8cb38-6f50-4cb3-bfc1-3fc3e1989eda@92f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261114T110000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261114T093000Z
-SUMMARY:J-D1: SG Oftersheim - TSV Amicitia Viernheim 2
-UID:7aa32f31-ae49-47b1-859d-bdef57a2873d@7aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Fortuna Heddesheim KR\nAdresse: Ahornstr. 78\, 68542 Heddesheim\nGPS: 49.5144990\, 8.6191181\nGoogle Maps: https://maps.google.com/?q=49.5144990\,8.6191181\nApple Maps: https://maps.apple.com/?q=49.5144990\,8.6191181
-DTEND:20260509T233000Z
-LOCATION:Ahornstr. 78\, 68542 Heddesheim
-DTSTART:20260509T220000Z
-SUMMARY:J-D1: FV Fortuna Heddesheim - SG Oftersheim
-UID:e5c45398-1f64-4132-b828-caedbf761875@e5c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen2 KF\, Lorscher Str. 84\, 68519 Viernheim
-DTEND:20250919T233000Z
-LOCATION:Stadion Lorscher Straße Rasen2 KF\, Lorscher Str. 84\, 68519 Viernheim
-DTSTART:20250919T220000Z
-SUMMARY:J-D1: TSV Amicitia Viernheim 2 - SG Oftersheim
-UID:4062c542-5d64-4f4e-8760-d3c9def05d2e@4062.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20251017T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20251017T220000Z
-SUMMARY:J-D1: SG Oftersheim - SKV Sandhofen
-UID:ee2e5731-0371-4c7f-ab29-59d23e75b588@ee2e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20250513T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20250513T220000Z
 SUMMARY:J-D1: SG Oftersheim - SC 08 Reilingen
-UID:83356265-3b3a-4e25-8511-42f85a655ada@8335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTEND:20250219T233000Z
-LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
-DTSTART:20250219T220000Z
-SUMMARY:J-D1: SC 08 Reilingen 2 - SG Oftersheim
-UID:c1e42421-3f96-4920-8dc3-65f0ac0abcab@c1e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20250307T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20250307T220000Z
-SUMMARY:J-D1: SG Oftersheim - TSV Rheinhausen
-UID:60f44024-00e9-4ae5-a272-b68a272dd74c@60f4.org
+UID:a232b11b-5540-44fd-978c-ea1696a905af@a232.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kreisklasse A – Rasenplatz\, VfB Gartenstadt NR\nAdresse: Anemonenweg 20-40\, 68305 Mannheim\nGPS: 49.5262182\, 8.5041172\nGoogle Maps: https://maps.google.com/?q=49.5262182\,8.5041172\nApple Maps: https://maps.apple.com/?q=49.5262182\,8.5041172
@@ -79,15 +15,31 @@ DTEND:20261121T130000Z
 LOCATION:Anemonenweg 20-40\, 68305 Mannheim
 DTSTART:20261121T113000Z
 SUMMARY:J-D1: VfB Gartenstadt - SG Oftersheim
-UID:97951bf0-a868-4e11-99be-170e41e00173@9795.org
+UID:9b144966-c81f-4f13-a297-6df5260f493b@9b14.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Türkspor Mannheim\nAdresse: Gartenschauweg 24\, 68165 Mannheim\nGPS: 49.4824704\, 8.5002983\nGoogle Maps: https://maps.google.com/?q=49.4824704\,8.5002983\nApple Maps: https://maps.apple.com/?q=49.4824704\,8.5002983
-DTEND:20251006T233000Z
-LOCATION:Gartenschauweg 24\, 68165 Mannheim
-DTSTART:20251006T220000Z
-SUMMARY:J-D1: Türkspor Mannheim - SG Oftersheim
-UID:762993f9-2306-40a3-98c1-0952a145a565@7629.org
+DESCRIPTION: – Kunstrasenplatz\nAdresse: SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTEND:20250219T233000Z
+LOCATION:SC 08 Reilingen KR\, Hauptstr. 209\, 68799 Reilingen
+DTSTART:20250219T220000Z
+SUMMARY:J-D1: SC 08 Reilingen 2 - SG Oftersheim
+UID:24de4655-3d68-484b-8f99-9e7f8954c88a@24de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251017T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251017T220000Z
+SUMMARY:J-D1: SG Oftersheim - SKV Sandhofen
+UID:6a55adaf-7ec1-41c5-93cc-7b6d31d5075b@6a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20251003T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20251003T220000Z
+SUMMARY:J-D1: SG Oftersheim - SC Olympia Neulußheim
+UID:6297877d-090f-4186-a37a-22349d190bcf@6297.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -95,6 +47,54 @@ DTEND:20251107T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20251107T220000Z
 SUMMARY:J-D1: SG Oftersheim - Spvgg 06 Ketsch
-UID:3176d9f4-76a3-4b9a-8285-48d72ffac374@3176.org
+UID:a60607fa-5fa2-42cf-be72-5d37f076bfa0@a606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kreisklasse A – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261114T110000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261114T093000Z
+SUMMARY:J-D1: SG Oftersheim - TSV Amicitia Viernheim 2
+UID:670eeab4-6e2c-4d6b-b3ab-708f3eb5135a@670e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Fortuna Heddesheim KR\nAdresse: Ahornstr. 78\, 68542 Heddesheim\nGPS: 49.5144990\, 8.6191181\nGoogle Maps: https://maps.google.com/?q=49.5144990\,8.6191181\nApple Maps: https://maps.apple.com/?q=49.5144990\,8.6191181
+DTEND:20260509T233000Z
+LOCATION:Ahornstr. 78\, 68542 Heddesheim
+DTSTART:20260509T220000Z
+SUMMARY:J-D1: FV Fortuna Heddesheim - SG Oftersheim
+UID:13938b80-8ed7-4f35-b976-746bad4beeea@1393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Türkspor Mannheim\nAdresse: Gartenschauweg 24\, 68165 Mannheim\nGPS: 49.4824704\, 8.5002983\nGoogle Maps: https://maps.google.com/?q=49.4824704\,8.5002983\nApple Maps: https://maps.apple.com/?q=49.4824704\,8.5002983
+DTEND:20251006T233000Z
+LOCATION:Gartenschauweg 24\, 68165 Mannheim
+DTSTART:20251006T220000Z
+SUMMARY:J-D1: Türkspor Mannheim - SG Oftersheim
+UID:4d825c37-aa66-418b-9b1e-c9a57b557ef8@4d82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\nAdresse: Stadion Lorscher Straße Rasen2 KF\, Lorscher Str. 84\, 68519 Viernheim
+DTEND:20250919T233000Z
+LOCATION:Stadion Lorscher Straße Rasen2 KF\, Lorscher Str. 84\, 68519 Viernheim
+DTSTART:20250919T220000Z
+SUMMARY:J-D1: TSV Amicitia Viernheim 2 - SG Oftersheim
+UID:d6a898c0-e07b-4640-9548-22b7bb1c233e@d6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\nAdresse: VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
+DTEND:20251114T233000Z
+LOCATION:VfL Kurpfalz Neckarau - Kunstrasenplatz 1\, Neckarauer Waldweg\, 68199 Mannheim
+DTSTART:20251114T220000Z
+SUMMARY:J-D1: VfL Kurpfalz Neckarau - SG Oftersheim
+UID:6880aa92-91a7-491d-b261-c679c7d5e2ac@6880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20250307T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20250307T220000Z
+SUMMARY:J-D1: SG Oftersheim - TSV Rheinhausen
+UID:c78ae503-2344-49a5-9429-eb90da6950da@c78a.org
 END:VEVENT
 END:VCALENDAR
