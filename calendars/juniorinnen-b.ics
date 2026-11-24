@@ -3,27 +3,19 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
-DTEND:20261031T233000Z
-LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
-DTSTART:20261031T220000Z
-SUMMARY:M-B: SG Oftersheim  11er (Flex) - SV Gochsheim  11er (Flex)
-UID:898a5569-3ad2-47c3-b4d9-2063cd45cc2b@898a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20260709T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20260709T220000Z
 SUMMARY:M-B: SG Oftersheim - FC 1933 Leistadt F.B.L. Girls United
-UID:b55265fa-776f-4ce4-ac3f-7d818e5f926e@b552.org
+UID:7ea0c172-65c1-45ce-aab6-4df17dd12804@7ea0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Schulsport Hoffh. Kunstrasen\nAdresse: Peter-Hofmann-Weg 3\, 74889 Sinsheim\nGPS: 49.2778885\, 8.8430306\nGoogle Maps: https://maps.google.com/?q=49.2778885\,8.8430306\nApple Maps: https://maps.apple.com/?q=49.2778885\,8.8430306
-DTEND:20261113T233000Z
-LOCATION:Peter-Hofmann-Weg 3\, 74889 Sinsheim
-DTSTART:20261113T220000Z
-SUMMARY:M-B: TSG Hoffenheim  11er (Flex) - SG Oftersheim  11er (Flex)
-UID:d3c0891d-257b-4695-b2b7-31b65d822416@d3c0.org
+DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
+DTEND:20261031T233000Z
+LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
+DTSTART:20261031T220000Z
+SUMMARY:M-B: SG Oftersheim  11er (Flex) - SV Gochsheim  11er (Flex)
+UID:48a723a2-36c3-4cc5-914d-876f51dfa4e0@48a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Landesliga – Kunstrasenplatz\, Post Südstadt Karlsruhe (eh. Post)\nAdresse: Ettlinger Allee 9\, 76199 Karlsruhe\nGPS: 48.9841464\, 8.4045592\nGoogle Maps: https://maps.google.com/?q=48.9841464\,8.4045592\nApple Maps: https://maps.apple.com/?q=48.9841464\,8.4045592
@@ -31,15 +23,7 @@ DTEND:20261128T143000Z
 LOCATION:Ettlinger Allee 9\, 76199 Karlsruhe
 DTSTART:20261128T130000Z
 SUMMARY:M-B: Post Südstadt Karlsruhe  11er - SG Oftersheim  11er (Flex)
-UID:69894caa-1645-415c-ab75-80bdfa9ac42f@6989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: – Rasenplatz\, TSV Stettfeld\nAdresse: Augartenstr. 8\, 76698 Ubstadt-Weiher\nGPS: 49.1867068\, 8.6396356\nGoogle Maps: https://maps.google.com/?q=49.1867068\,8.6396356\nApple Maps: https://maps.apple.com/?q=49.1867068\,8.6396356
-DTEND:20260710T233000Z
-LOCATION:Augartenstr. 8\, 76698 Ubstadt-Weiher
-DTSTART:20260710T220000Z
-SUMMARY:M-B: SG Oftersheim - SV Gochsheim
-UID:69289ccb-4fe2-4085-8c84-62b68198edaa@6928.org
+UID:adb49ce6-7abe-40e7-bc2b-cca4eb58b1cc@adb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
@@ -47,6 +31,22 @@ DTEND:20260924T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20260924T220000Z
 SUMMARY:M-B: SG Oftersheim  11er (Flex) - JSG HD-Kirchheim /​ Ziegelhausen-Peterstal /​ Neckargemünd  11er
-UID:5a14f2d4-9a76-4073-a921-bc0707548d0e@5a14.org
+UID:d2de5c84-fb79-4b11-9936-d9cf5ea119bc@d2de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Schulsport Hoffh. Kunstrasen\nAdresse: Peter-Hofmann-Weg 3\, 74889 Sinsheim\nGPS: 49.2778885\, 8.8430306\nGoogle Maps: https://maps.google.com/?q=49.2778885\,8.8430306\nApple Maps: https://maps.apple.com/?q=49.2778885\,8.8430306
+DTEND:20261113T233000Z
+LOCATION:Peter-Hofmann-Weg 3\, 74889 Sinsheim
+DTSTART:20261113T220000Z
+SUMMARY:M-B: TSG Hoffenheim  11er (Flex) - SG Oftersheim  11er (Flex)
+UID:bf1ce09b-2cec-4443-8ed7-8ab260347ae8@bf1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Rasenplatz\, TSV Stettfeld\nAdresse: Augartenstr. 8\, 76698 Ubstadt-Weiher\nGPS: 49.1867068\, 8.6396356\nGoogle Maps: https://maps.google.com/?q=49.1867068\,8.6396356\nApple Maps: https://maps.apple.com/?q=49.1867068\,8.6396356
+DTEND:20260710T233000Z
+LOCATION:Augartenstr. 8\, 76698 Ubstadt-Weiher
+DTSTART:20260710T220000Z
+SUMMARY:M-B: SG Oftersheim - SV Gochsheim
+UID:b2beec86-20e4-41a5-af02-978da7b52380@b2be.org
 END:VEVENT
 END:VCALENDAR
