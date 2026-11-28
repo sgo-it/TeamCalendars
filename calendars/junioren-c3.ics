@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: – Kunstrasenplatz\, Waldstadion Hockenheim\nAdresse: Waldstraße 3\, 68766 Hockenheim\nGPS: 49.3207249\, 8.5630825\nGoogle Maps: https://maps.google.com/?q=49.3207249\,8.5630825\nApple Maps: https://maps.apple.com/?q=49.3207249\,8.5630825
-DTEND:20250926T233000Z
-LOCATION:Waldstraße 3\, 68766 Hockenheim
-DTSTART:20250926T220000Z
-SUMMARY:J-C3: FV 08 Hockenheim (Flex) - SG Oftersheim 3 (Flex)
-UID:2bbc12c4-76d4-4241-82bb-934832c6b1c9@2bbc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: – Kunstrasenplatz\, SG Oftersheim KR\nAdresse: Hockenheimer Str. 1a\, 68723 Oftersheim\nGPS: 49.3595141\, 8.5817419\nGoogle Maps: https://maps.google.com/?q=49.3595141\,8.5817419\nApple Maps: https://maps.apple.com/?q=49.3595141\,8.5817419
 DTEND:20251120T233000Z
 LOCATION:Hockenheimer Str. 1a\, 68723 Oftersheim
 DTSTART:20251120T220000Z
 SUMMARY:J-C3: SG Oftersheim 3 (Flex) - VfB Gartenstadt 3 Flex
-UID:182d9fa1-f4e8-4935-b82d-43a3c56f7e2f@182d.org
+UID:74d42953-078f-4bc5-b245-1a39b15c6bc5@74d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: – Kunstrasenplatz\, Waldstadion Hockenheim\nAdresse: Waldstraße 3\, 68766 Hockenheim\nGPS: 49.3207249\, 8.5630825\nGoogle Maps: https://maps.google.com/?q=49.3207249\,8.5630825\nApple Maps: https://maps.apple.com/?q=49.3207249\,8.5630825
+DTEND:20250926T233000Z
+LOCATION:Waldstraße 3\, 68766 Hockenheim
+DTSTART:20250926T220000Z
+SUMMARY:J-C3: FV 08 Hockenheim (Flex) - SG Oftersheim 3 (Flex)
+UID:a9b11af9-5ea6-48a8-8f24-93fdd3b8cd5c@a9b1.org
 END:VEVENT
 END:VCALENDAR
